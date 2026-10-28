@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "file": "001-kien.json",
+    "ten": "Thuần Càn"
+  },
+  {
+    "id": 2,
+    "file": "002-khon.json",
+    "ten": "Thuần Khôn"
+  },
+  {
+    "id": 3,
+    "file": "003-truan.json",
+    "ten": "Thủy Lôi Truân"
+  }
+]
