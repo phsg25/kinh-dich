@@ -74,3 +74,37 @@ Không bói toán
 Không tiên tri
 Không phán vận mệnh
 Tập trung vào học tập, nghiên cứu và đối chiếu
+
+## Lệnh khởi động phiên làm việc
+
+Repo:
+https://phsg25.github.io/kinh-dich/
+
+Đọc ROADMAP.md và tiếp tục dự án từ trạng thái hiện tại.
+## Repo Github
+
+https://github.com/phsg25/kinh-dich
+
+## Trạng thái hiện tại
+
+Beta 0.4
+
+✅ Github Pages
+
+✅ Website live
+
+✅ Dynamic JSON loading
+
+✅ index.json
+
+✅ dan-nhap.json
+
+✅ bat-quai.json
+
+✅ 001-kien.json
+
+✅ 002-khon.json
+
+✅ 003-truan.json
+
+✅ ROADMAP.md
