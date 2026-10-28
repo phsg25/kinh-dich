@@ -1,0 +1,49 @@
+{
+  "loai": "gioi_thieu",
+
+  "nguon": "thu_vien_kinh_dich",
+
+  "du_lieu": {
+
+    "title": "Dẫn nhập",
+
+    "sections": [
+
+      {
+        "heading": "Kinh Dịch là gì?",
+        "content": "Kinh Dịch là một trong những tác phẩm kinh điển lâu đời của văn hóa phương Đông. Nội dung được xây dựng trên hệ thống Âm Dương, Bát Quái và 64 Quẻ để mô tả quy luật biến đổi của tự nhiên, xã hội và đời sống con người."
+      },
+
+      {
+        "heading": "Mục đích của thư viện",
+        "items": [
+          "Tra cứu 64 quẻ",
+          "Tìm hiểu Bát Quái và Âm Dương",
+          "Đọc nguyên văn và các chú giải",
+          "Học tập và nghiên cứu Kinh Dịch"
+        ]
+      },
+
+      {
+        "heading": "Nguyên tắc biên soạn",
+        "items": [
+          "Nguyên văn Kinh Dịch",
+          "Dịch nghĩa",
+          "Chú giải",
+          "Ghi chú hiện đại"
+        ]
+      },
+
+      {
+        "heading": "Tuyên ngôn",
+        "content": "Kinh Dịch là một hệ thống tư tưởng và biểu tượng cổ. Nội dung trong thư viện nhằm mục đích học tập, nghiên cứu và tra cứu. Thư viện không đưa ra các khẳng định về tương lai, vận mệnh, sức khỏe, tài chính hay pháp lý."
+      }
+
+    ]
+
+  },
+
+  "ghi_chu": "chưa cập nhật",
+
+  "phien_ban": "1.0"
+}
