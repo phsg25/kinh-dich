@@ -9,6 +9,8 @@ async function loadMenu() {
   const menu =
     document.getElementById("menu");
 
+  menu.innerHTML = "";
+
   list.forEach(item => {
 
     const button =
@@ -34,23 +36,39 @@ async function loadQue(file) {
   const data =
     await response.json();
 
+  const q = data.du_lieu;
+
   document.getElementById("content")
     .innerHTML = `
       <div class="card">
 
-        <h2>${data.ten}</h2>
+        <h2>
+          Quẻ ${q.id ?? "?"}: ${q.ten ?? "chưa cập nhật"}
+        </h2>
 
-        <p>${data.han}</p>
+        <p>
+          <strong>${q.han ?? "chưa cập nhật"}</strong>
+        </p>
 
-        <p>Tượng: ${data.tuong}</p>
+        <p>
+          Tượng:
+          ${q.tuong ?? "chưa cập nhật"}
+        </p>
 
-        <p>Tính chất: ${data.tinh_chat}</p>
+        <p>
+          Tính chất:
+          ${q.tinh_chat ?? "chưa cập nhật"}
+        </p>
 
-        <p>Ngũ hành: ${data.ngu_hanh}</p>
+        <p>
+          Ngũ hành:
+          ${q.ngu_hanh ?? "chưa cập nhật"}
+        </p>
 
       </div>
   `;
 }
 
 loadMenu();
+
 loadQue("001-kien.json");
