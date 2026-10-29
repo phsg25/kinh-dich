@@ -1,18 +1,24 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 56,
     "ten": "Hỏa Sơn Lữ",
     "han": "旅",
     "tuong": "Lữ khách",
-    "tinh_chat": "Linh hoạt",
+    "tinh_chat": "Thích nghi",
     "ngu_hanh": "Hỏa - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi ở trong môi trường mới, sự khiêm tốn và khả năng thích nghi sẽ giúp vượt qua nhiều khó khăn.",
+    "thoan_truyen": "Quẻ Lữ tượng trưng cho hành trình xa nhà hoặc những giai đoạn phải rời khỏi vùng an toàn. Thành công đến từ khả năng thích nghi và giữ đúng giá trị của bản thân trong hoàn cảnh mới.",
+    "tuong_truyen": "Người quân tử cư xử đúng mực ở bất kỳ nơi đâu và luôn giữ sự thận trọng khi đối mặt với điều chưa quen thuộc.",
+    "hao": [
+      "Sơ Lục: bước vào môi trường mới cần quan sát và học hỏi.",
+      "Lục Nhị: sự chân thành giúp tạo được thiện cảm.",
+      "Cửu Tam: kiêu ngạo dễ dẫn đến những rắc rối không cần thiết.",
+      "Cửu Tứ: giữ vững nguyên tắc trong hoàn cảnh thay đổi.",
+      "Lục Ngũ: ứng xử đúng mực giúp nhận được sự hỗ trợ.",
+      "Thượng Cửu: mất phương hướng sẽ làm giảm cơ hội phát triển.",
+      "Ý nghĩa chung: thích nghi tốt giúp biến thay đổi thành cơ hội."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
-}
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu."
