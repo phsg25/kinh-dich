@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 16,
     "ten": "Lôi Địa Dự",
     "han": "豫",
-    "tuong": "Vui mừng",
-    "tinh_chat": "Hòa thuận",
+    "tuong": "Vui vẻ",
+    "tinh_chat": "Hăng hái",
     "ngu_hanh": "Mộc - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Tinh thần tích cực và sự chuẩn bị chu đáo giúp tạo động lực để thực hiện những mục tiêu lớn.",
+    "thoan_truyen": "Quẻ Dự tượng trưng cho niềm vui và sự phấn khởi đúng lúc. Khi con người có chung niềm tin và mục tiêu, tập thể sẽ dễ dàng tạo nên sức mạnh lớn.",
+    "tuong_truyen": "Người quân tử dùng sự lạc quan và tổ chức tốt để khích lệ mọi người cùng tiến về phía trước.",
+    "hao": [
+      "Sơ Lục: niềm vui thiếu nền tảng dễ dẫn đến chủ quan.",
+      "Lục Nhị: giữ sự cân bằng giúp duy trì tinh thần ổn định.",
+      "Lục Tam: vui vẻ quá mức dễ làm mất tập trung.",
+      "Cửu Tứ: biết truyền cảm hứng cho người khác.",
+      "Lục Ngũ: giữ vị trí trung tâm bằng sự chân thành.",
+      "Thượng Lục: mê đắm niềm vui có thể gây hậu quả đáng tiếc.",
+      "Ý nghĩa chung: niềm vui cần đi cùng trách nhiệm và tỉnh táo."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
