@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 38,
     "ten": "Hỏa Trạch Khuê",
     "han": "睽",
     "tuong": "Khác biệt",
-    "tinh_chat": "Đối lập",
+    "tinh_chat": "Dung hòa",
     "ngu_hanh": "Hỏa - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự khác biệt không nhất thiết dẫn đến xung đột nếu biết tôn trọng và thấu hiểu lẫn nhau.",
+    "thoan_truyen": "Quẻ Khuê tượng trưng cho những khác biệt trong suy nghĩ hoặc mục tiêu. Thành công đến từ khả năng tìm điểm chung và hợp tác dù không hoàn toàn giống nhau.",
+    "tuong_truyen": "Người quân tử tôn trọng sự đa dạng và luôn tìm cách kết nối thay vì chia rẽ.",
+    "hao": [
+      "Sơ Cửu: khác biệt nhỏ không nên trở thành mâu thuẫn lớn.",
+      "Cửu Nhị: đối thoại giúp tăng sự thấu hiểu.",
+      "Lục Tam: cố chấp dễ tạo khoảng cách với người khác.",
+      "Cửu Tứ: chủ động hòa giải giúp cải thiện quan hệ.",
+      "Lục Ngũ: tôn trọng khác biệt tạo nên hợp tác lâu dài.",
+      "Thượng Cửu: nhìn nhận vấn đề từ nhiều góc độ giúp hóa giải xung đột.",
+      "Ý nghĩa chung: khác biệt có thể trở thành động lực phát triển."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
