@@ -1,5 +1,18 @@
 {
-  "id": 4,
-  "file": "004-mong.json",
-  "ten": "Sơn Thủy Mông"
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 4,
+    "ten": "Sơn Thủy Mông",
+    "han": "蒙",
+    "tuong": "Non trẻ, học hỏi",
+    "tinh_chat": "Khai mở",
+    "ngu_hanh": "Thổ - Thủy",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
 }
