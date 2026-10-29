@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 45,
     "ten": "Trạch Địa Tụy",
@@ -8,11 +8,19 @@
     "tuong": "Tụ họp",
     "tinh_chat": "Đoàn kết",
     "ngu_hanh": "Kim - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những người có cùng mục tiêu và giá trị khi tập hợp lại sẽ tạo nên sức mạnh lớn.",
+    "thoan_truyen": "Quẻ Tụy tượng trưng cho sự hội tụ nguồn lực và con người. Thành công đến khi tập thể biết thống nhất mục tiêu và phối hợp hiệu quả với nhau.",
+    "tuong_truyen": "Người quân tử biết quy tụ nhân tâm và xây dựng tinh thần đoàn kết vì lợi ích chung.",
+    "hao": [
+      "Sơ Lục: bắt đầu kết nối bằng sự chân thành.",
+      "Lục Nhị: niềm tin là nền tảng của sự hợp tác.",
+      "Lục Tam: thiếu đồng lòng dễ làm giảm hiệu quả tập thể.",
+      "Cửu Tứ: chủ động gắn kết giúp tăng sức mạnh chung.",
+      "Cửu Ngũ: lãnh đạo bằng uy tín và trách nhiệm.",
+      "Thượng Lục: duy trì đoàn kết cần sự nỗ lực lâu dài.",
+      "Ý nghĩa chung: sức mạnh tập thể đến từ sự đồng lòng."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
