@@ -19,9 +19,24 @@
     "file": "004-mong.json",
     "ten": "Sơn Thủy Mông"
   },
-  {
+ {
   "id": 5,
   "file": "005-nhu.json",
   "ten": "Thủy Thiên Nhu"
+},
+{
+  "id": 6,
+  "file": "006-tung.json",
+  "ten": "Thiên Thủy Tụng"
+},
+{
+  "id": 7,
+  "file": "007-su.json",
+  "ten": "Địa Thủy Sư"
+},
+{
+  "id": 8,
+  "file": "008-ty.json",
+  "ten": "Thủy Địa Tỷ"
 }
 ]
