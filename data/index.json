@@ -273,5 +273,30 @@
   "id": 55,
   "file": "055-phong.json",
   "ten": "Lôi Hỏa Phong"
+},
+{
+  "id": 56,
+  "file": "056-lu.json",
+  "ten": "Hỏa Sơn Lữ"
+},
+{
+  "id": 57,
+  "file": "057-ton.json",
+  "ten": "Thuần Tốn"
+},
+{
+  "id": 58,
+  "file": "058-doai.json",
+  "ten": "Thuần Đoài"
+},
+{
+  "id": 59,
+  "file": "059-hoan.json",
+  "ten": "Phong Thủy Hoán"
+},
+{
+  "id": 60,
+  "file": "060-tiet.json",
+  "ten": "Thủy Trạch Tiết"
 }
 ]
