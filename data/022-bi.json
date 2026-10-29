@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 22,
     "ten": "Sơn Hỏa Bí",
     "han": "賁",
     "tuong": "Trang sức",
-    "tinh_chat": "Văn minh",
+    "tinh_chat": "Hài hòa",
     "ngu_hanh": "Thổ - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Vẻ đẹp thực sự đến từ sự hài hòa giữa hình thức và giá trị bên trong.",
+    "thoan_truyen": "Quẻ Bí tượng trưng cho việc làm đẹp và hoàn thiện biểu hiện bên ngoài. Tuy nhiên, hình thức chỉ có ý nghĩa khi phản ánh đúng phẩm chất và nội dung bên trong.",
+    "tuong_truyen": "Người quân tử chú trọng cả đạo đức lẫn cách thể hiện để tạo nên sự hài hòa trong cuộc sống.",
+    "hao": [
+      "Sơ Cửu: vẻ đẹp từ sự giản dị và chân thành.",
+      "Lục Nhị: biết chăm chút những điều cần thiết.",
+      "Cửu Tam: không nên quá chú trọng hình thức.",
+      "Lục Tứ: nét đẹp tự nhiên có giá trị lâu bền.",
+      "Lục Ngũ: nội dung tốt đẹp làm tăng giá trị bên ngoài.",
+      "Thượng Cửu: giản dị là vẻ đẹp cao nhất.",
+      "Ý nghĩa chung: nội dung luôn quan trọng hơn hình thức."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
