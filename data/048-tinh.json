@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 48,
     "ten": "Thủy Phong Tỉnh",
@@ -8,11 +8,19 @@
     "tuong": "Cái giếng",
     "tinh_chat": "Nuôi dưỡng",
     "ngu_hanh": "Thủy - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những giá trị bền vững cần được duy trì và chăm sóc để tiếp tục mang lại lợi ích lâu dài.",
+    "thoan_truyen": "Quẻ Tỉnh tượng trưng cho nguồn lực chung và những giá trị phục vụ cộng đồng. Điều quan trọng không phải là tạo ra cái mới liên tục mà là biết giữ gìn và phát huy điều tốt đẹp đang có.",
+    "tuong_truyen": "Người quân tử chăm lo những nền tảng thiết yếu để tạo lợi ích lâu dài cho mọi người.",
+    "hao": [
+      "Sơ Lục: nguồn lực bị bỏ quên sẽ dần mất giá trị.",
+      "Cửu Nhị: biết khai thác đúng cách sẽ tạo lợi ích thiết thực.",
+      "Cửu Tam: năng lực có sẵn cần được phát huy hiệu quả.",
+      "Lục Tứ: chăm sóc và bảo trì giúp duy trì giá trị lâu dài.",
+      "Cửu Ngũ: sử dụng nguồn lực vì lợi ích chung.",
+      "Thượng Lục: giá trị lớn nhất nằm ở sự chia sẻ và phục vụ.",
+      "Ý nghĩa chung: gìn giữ nền tảng là đầu tư cho tương lai."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
