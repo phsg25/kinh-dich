@@ -222,7 +222,9 @@ async function loadSearch() {
   let html = `
     <div class="card">
 
-      <h2>Tra cứu Quẻ Dịch</h2>
+      <h2>
+        Tra cứu Quẻ Dịch
+      </h2>
 
       <input
         type="text"
@@ -231,7 +233,7 @@ async function loadSearch() {
         style="
           width:100%;
           padding:10px;
-          margin-bottom:10px;
+          margin-bottom:12px;
         ">
 
       <div id="searchResults"></div>
@@ -242,21 +244,24 @@ async function loadSearch() {
   document.getElementById("content")
     .innerHTML = html;
 
-  const input =
-    document.getElementById("searchInput");
+  const results =
+    document.getElementById("searchResults");
 
-  input.addEventListener("input", () => {
+  function renderResults(keyword = "") {
 
-    const keyword =
-      input.value.toLowerCase();
+    const search =
+      keyword.toLowerCase();
 
     let resultHtml = "";
 
     list.forEach(item => {
 
       if (
-        item.ten.toLowerCase().includes(keyword)
+        item.ten.toLowerCase().includes(search)
       ) {
+
+        const id =
+          String(item.id).padStart(2, "0");
 
         resultHtml += `
           <div
@@ -269,7 +274,7 @@ async function loadSearch() {
               cursor:pointer;
             ">
 
-            ${item.id}. ${item.ten}
+            ${id}. ${item.ten}
 
           </div>
         `;
@@ -277,10 +282,22 @@ async function loadSearch() {
 
     });
 
-    document.getElementById("searchResults")
-      .innerHTML = resultHtml;
+    results.innerHTML =
+      resultHtml;
+  }
+
+  renderResults();
+
+  const input =
+    document.getElementById("searchInput");
+
+  input.addEventListener("input", () => {
+
+    renderResults(input.value);
 
   });
+
+}
 
 }
 
