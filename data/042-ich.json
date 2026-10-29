@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 42,
     "ten": "Phong Lôi Ích",
@@ -8,11 +8,19 @@
     "tuong": "Gia tăng",
     "tinh_chat": "Phát triển",
     "ngu_hanh": "Mộc - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi biết tạo giá trị cho người khác, lợi ích chung và lợi ích cá nhân đều có cơ hội phát triển.",
+    "thoan_truyen": "Quẻ Ích tượng trưng cho sự gia tăng và phát triển. Những hành động mang lại lợi ích cho cộng đồng thường tạo nên kết quả tích cực và lâu dài.",
+    "tuong_truyen": "Người quân tử chủ động giúp đỡ người khác và không ngừng hoàn thiện bản thân.",
+    "hao": [
+      "Sơ Cửu: hành động thiện chí tạo khởi đầu tích cực.",
+      "Lục Nhị: giúp đỡ đúng cách tạo ảnh hưởng lâu dài.",
+      "Lục Tam: phát triển cần đi kèm trách nhiệm.",
+      "Lục Tứ: hợp tác giúp tăng hiệu quả công việc.",
+      "Cửu Ngũ: dùng vị trí của mình để tạo lợi ích chung.",
+      "Thượng Cửu: chỉ nhận mà không cho đi sẽ khó bền vững.",
+      "Ý nghĩa chung: muốn nhận được giá trị hãy tạo ra giá trị trước."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
