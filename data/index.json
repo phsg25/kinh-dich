@@ -173,5 +173,30 @@
   "id": 35,
   "file": "035-tan.json",
   "ten": "Hỏa Địa Tấn"
+},
+{
+  "id": 36,
+  "file": "036-minh-di.json",
+  "ten": "Địa Hỏa Minh Di"
+},
+{
+  "id": 37,
+  "file": "037-gia-nhan.json",
+  "ten": "Phong Hỏa Gia Nhân"
+},
+{
+  "id": 38,
+  "file": "038-khue.json",
+  "ten": "Hỏa Trạch Khuê"
+},
+{
+  "id": 39,
+  "file": "039-kien.json",
+  "ten": "Thủy Sơn Kiển"
+},
+{
+  "id": 40,
+  "file": "040-giai.json",
+  "ten": "Lôi Thủy Giải"
 }
 ]
