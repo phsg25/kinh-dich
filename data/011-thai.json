@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 11,
     "ten": "Địa Thiên Thái",
@@ -8,11 +8,19 @@
     "tuong": "Thông suốt",
     "tinh_chat": "Hài hòa",
     "ngu_hanh": "Thổ - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi các điều kiện thuận lợi gặp nhau, sự phát triển và hài hòa sẽ xuất hiện một cách tự nhiên.",
+    "thoan_truyen": "Quẻ Thái tượng trưng cho thời kỳ thông suốt giữa con người và hoàn cảnh xung quanh. Đây là giai đoạn thuận lợi để xây dựng, phát triển và mở rộng những giá trị tốt đẹp.",
+    "tuong_truyen": "Người quân tử biết duy trì sự cân bằng và hòa hợp để tạo nên môi trường ổn định cho mọi người cùng phát triển.",
+    "hao": [
+      "Sơ Cửu: khởi đầu thuận lợi nhờ cùng chí hướng với người khác.",
+      "Cửu Nhị: giữ sự trung chính sẽ duy trì được trạng thái tốt đẹp.",
+      "Cửu Tam: thuận lợi cũng cần đề phòng chủ quan.",
+      "Lục Tứ: biết chia sẻ và hợp tác giúp thành công bền vững.",
+      "Lục Ngũ: vị trí trung tâm cần dùng đức để dẫn dắt.",
+      "Thượng Lục: thịnh vượng đến cực điểm cần chuẩn bị cho thay đổi.",
+      "Ý nghĩa chung: duy trì sự cân bằng trong lúc thuận lợi quan trọng không kém việc vượt khó."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
