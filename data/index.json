@@ -73,5 +73,30 @@
   "id": 15,
   "file": "015-khiem.json",
   "ten": "Địa Sơn Khiêm"
+},
+{
+  "id": 16,
+  "file": "016-du.json",
+  "ten": "Lôi Địa Dự"
+},
+{
+  "id": 17,
+  "file": "017-tuy.json",
+  "ten": "Trạch Lôi Tùy"
+},
+{
+  "id": 18,
+  "file": "018-co.json",
+  "ten": "Sơn Phong Cổ"
+},
+{
+  "id": 19,
+  "file": "019-lam.json",
+  "ten": "Địa Trạch Lâm"
+},
+{
+  "id": 20,
+  "file": "020-quan.json",
+  "ten": "Phong Địa Quán"
 }
 ]
