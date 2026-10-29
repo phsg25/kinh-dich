@@ -1,32 +1,26 @@
 {
   "loai": "que",
-
-  "nguon": "kinh_dich",
-
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
-
     "id": 5,
-
     "ten": "Thủy Thiên Nhu",
-
     "han": "需",
-
     "tuong": "Chờ đợi",
-
     "tinh_chat": "Kiên nhẫn",
-
     "ngu_hanh": "Thủy - Kim",
-
-    "quai_tu": "chưa cập nhật",
-
-    "thoan_truyen": "chưa cập nhật",
-
-    "tuong_truyen": "chưa cập nhật",
-
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi thời cơ chưa đến, điều quan trọng là giữ vững niềm tin, tích lũy năng lực và kiên nhẫn chờ đợi.",
+    "thoan_truyen": "Quẻ Nhu tượng trưng cho hoàn cảnh cần thời gian để phát triển chín muồi. Hành động vội vàng thường không đem lại kết quả tốt, trong khi sự chuẩn bị kỹ lưỡng giúp tạo nền tảng vững chắc.",
+    "tuong_truyen": "Người quân tử biết nuôi dưỡng đức hạnh, giữ tâm bình tĩnh và chuẩn bị đầy đủ trước khi hành động.",
+    "hao": [
+      "Sơ Cửu: kiên nhẫn chuẩn bị từ những bước đầu tiên.",
+      "Cửu Nhị: gặp khó khăn nhỏ nhưng vẫn giữ được định hướng.",
+      "Cửu Tam: nóng vội dễ dẫn đến rủi ro và tổn thất.",
+      "Lục Tứ: biết giữ mình và tránh đối đầu không cần thiết.",
+      "Cửu Ngũ: trung chính và kiên trì sẽ đợi được thời cơ tốt.",
+      "Thượng Lục: kết quả đến sau quá trình chờ đợi và chuẩn bị lâu dài.",
+      "Ý nghĩa chung: biết chờ đúng lúc là một dạng của trí tuệ."
+    ]
   },
-
-  "ghi_chu": "chưa cập nhật",
-
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
