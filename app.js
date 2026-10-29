@@ -69,6 +69,57 @@ async function loadQue(file) {
   `;
 }
 
+async function loadDanNhap() {
+
+  const response =
+    await fetch("./data/dan-nhap.json");
+
+  const data =
+    await response.json();
+
+  let html = `
+    <div class="card">
+
+      <h2>
+        ${data.du_lieu.title}
+      </h2>
+  `;
+
+  data.du_lieu.sections.forEach(section => {
+
+    html += `
+      <h3>${section.heading}</h3>
+    `;
+
+    if (section.content) {
+
+      html += `
+        <p>${section.content}</p>
+      `;
+    }
+
+    if (section.items) {
+
+      html += `<ul>`;
+
+      section.items.forEach(item => {
+
+        html += `
+          <li>${item}</li>
+        `;
+      });
+
+      html += `</ul>`;
+    }
+
+  });
+
+  html += `</div>`;
+
+  document.getElementById("content")
+    .innerHTML = html;
+}
+
 loadMenu();
 
 loadQue("001-kien.json");
