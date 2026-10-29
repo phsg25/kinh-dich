@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 51,
     "ten": "Thuần Chấn",
     "han": "震",
     "tuong": "Sấm",
-    "tinh_chat": "Chấn động",
+    "tinh_chat": "Thức tỉnh",
     "ngu_hanh": "Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những biến động bất ngờ có thể trở thành cơ hội để thức tỉnh và trưởng thành.",
+    "thoan_truyen": "Quẻ Chấn tượng trưng cho sự chuyển động mạnh mẽ và những thay đổi đột ngột. Khi giữ được bình tĩnh trước biến động, con người sẽ tìm thấy hướng đi đúng đắn.",
+    "tuong_truyen": "Người quân tử dùng sự tỉnh táo để đối mặt và thích nghi với những thay đổi của hoàn cảnh.",
+    "hao": [
+      "Sơ Cửu: biến động ban đầu giúp nhận ra điều cần thay đổi.",
+      "Lục Nhị: giữ bình tĩnh trước áp lực và bất ngờ.",
+      "Lục Tam: hoảng loạn dễ dẫn đến những quyết định sai lầm.",
+      "Cửu Tứ: thích nghi nhanh giúp vượt qua thử thách.",
+      "Lục Ngũ: giữ vững vị trí dù hoàn cảnh biến động.",
+      "Thượng Lục: sau biến động là cơ hội phát triển mới.",
+      "Ý nghĩa chung: bình tĩnh trước thay đổi sẽ tạo ra sức mạnh."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
