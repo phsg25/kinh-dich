@@ -9,7 +9,7 @@
 
 ✅ index.json
 
-✅ 001 -> 020 Quẻ Dịch
+✅ 001 -> 030 Quẻ Dịch
 
 
 ## Chuẩn dữ liệu
@@ -50,19 +50,10 @@ https://github.com/phsg25/kinh-dich
 
 ☯ KINH DỊCH
 
-## Checkpoint Beta 0.9
+## Checkpoint Beta 1.0
 
-Module:
+✅ 30 quẻ đầu tiên
 ✅ Dẫn nhập
 ✅ Bát quái
 ✅ Quẻ Dịch
 ✅ Tra cứu
-
-Dữ liệu:
-✅ 20 / 64 quẻ
-
-Hạ tầng:
-✅ GitHub Pages
-✅ Dynamic JSON
-✅ Tìm kiếm cơ bản
-✅ Roadmap
