@@ -170,6 +170,46 @@ async function loadDanNhap() {
     .innerHTML = html;
 }
 
+async function loadHexagramList() {
+
+  const response =
+    await fetch("./data/index.json");
+
+  const list =
+    await response.json();
+
+  let html = `
+    <div class="card">
+
+      <h2>
+        Danh sách quẻ
+      </h2>
+  `;
+
+  list.forEach(item => {
+
+    html += `
+      <div
+        style="
+          padding:12px;
+          margin-bottom:10px;
+          border:1px solid #ddd;
+          border-radius:8px;
+          cursor:pointer;
+        "
+        onclick="loadQue('${item.file}')">
+
+        ${item.id}. ${item.ten}
+
+      </div>
+    `;
+  });
+
+  html += `</div>`;
+
+  document.getElementById("content")
+    .innerHTML = html;
+}
 loadMenu();
 
 loadQue("001-kien.json");
