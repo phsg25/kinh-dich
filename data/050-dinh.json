@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 50,
     "ten": "Hỏa Phong Đỉnh",
@@ -8,11 +8,19 @@
     "tuong": "Cái đỉnh",
     "tinh_chat": "Thành tựu",
     "ngu_hanh": "Hỏa - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi nền tảng đã được xây dựng vững chắc, con người có thể tạo ra những giá trị lớn lao và bền vững.",
+    "thoan_truyen": "Quẻ Đỉnh tượng trưng cho sự hoàn thiện và nâng cao chất lượng của sự vật. Đây là giai đoạn chuyển hóa nội lực thành thành quả có giá trị cho cộng đồng.",
+    "tuong_truyen": "Người quân tử không ngừng hoàn thiện bản thân để tạo nên những giá trị hữu ích cho xã hội.",
+    "hao": [
+      "Sơ Lục: bắt đầu cải thiện từ nền tảng cơ bản nhất.",
+      "Cửu Nhị: năng lực được phát huy đúng lúc sẽ tạo thành quả tốt.",
+      "Cửu Tam: sự thay đổi tích cực cần thời gian để hoàn thiện.",
+      "Cửu Tứ: thiếu chuẩn bị có thể làm giảm hiệu quả thành quả đạt được.",
+      "Lục Ngũ: trí tuệ và đức độ giúp nâng cao giá trị công việc.",
+      "Thượng Cửu: thành tựu lớn cần được sử dụng đúng mục đích.",
+      "Ý nghĩa chung: giá trị bền vững đến từ quá trình hoàn thiện liên tục."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
