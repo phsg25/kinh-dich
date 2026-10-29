@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 35,
     "ten": "Hỏa Địa Tấn",
@@ -8,11 +8,19 @@
     "tuong": "Tiến lên",
     "tinh_chat": "Phát triển",
     "ngu_hanh": "Hỏa - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự tiến bộ bền vững đến từ năng lực thực chất và thái độ tích cực.",
+    "thoan_truyen": "Quẻ Tấn tượng trưng cho quá trình phát triển và mở rộng ảnh hưởng. Khi có đủ năng lực và giữ được phẩm chất tốt đẹp, cơ hội thăng tiến sẽ xuất hiện.",
+    "tuong_truyen": "Người quân tử không ngừng học hỏi và hoàn thiện bản thân để từng bước tiến lên.",
+    "hao": [
+      "Sơ Lục: tiến bộ bắt đầu từ những bước nhỏ.",
+      "Lục Nhị: kiên trì giúp vượt qua trở ngại ban đầu.",
+      "Lục Tam: hợp tác tốt tạo điều kiện phát triển nhanh hơn.",
+      "Cửu Tứ: tránh để thành công làm sinh kiêu ngạo.",
+      "Lục Ngũ: sử dụng vị thế để tạo giá trị cho nhiều người.",
+      "Thượng Cửu: phát triển cần đi kèm sự tự nhìn lại.",
+      "Ý nghĩa chung: tiến bộ thực sự đến từ năng lực và đức hạnh."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
