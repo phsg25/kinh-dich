@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 41,
     "ten": "Sơn Trạch Tổn",
@@ -8,11 +8,19 @@
     "tuong": "Giảm bớt",
     "tinh_chat": "Hy sinh",
     "ngu_hanh": "Thổ - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Biết giảm bớt điều không cần thiết sẽ tạo điều kiện cho những giá trị quan trọng phát triển.",
+    "thoan_truyen": "Quẻ Tổn tượng trưng cho sự tiết giảm và hy sinh đúng lúc. Khi biết từ bỏ lợi ích nhỏ để hướng tới mục tiêu lớn hơn, con người sẽ đạt được kết quả bền vững.",
+    "tuong_truyen": "Người quân tử dùng sự tiết chế và tự hoàn thiện để nâng cao giá trị của bản thân.",
+    "hao": [
+      "Sơ Cửu: sẵn sàng chia sẻ khi có thể giúp đỡ người khác.",
+      "Cửu Nhị: giảm bớt nhưng vẫn giữ được nguyên tắc.",
+      "Lục Tam: biết buông bỏ điều không cần thiết.",
+      "Lục Tứ: thay đổi bản thân giúp cải thiện hoàn cảnh.",
+      "Lục Ngũ: sự chân thành làm tăng giá trị của hy sinh.",
+      "Thượng Cửu: cho đi đúng cách mang lại lợi ích lâu dài.",
+      "Ý nghĩa chung: biết giảm bớt để tạo nên điều tốt đẹp hơn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
