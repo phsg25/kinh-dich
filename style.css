@@ -130,3 +130,6 @@ button:hover {
 #content .card li {
   margin-bottom: 4px;
 }
+#content .card h2 {
+  margin-bottom: 10px;
+}
