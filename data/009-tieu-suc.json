@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 9,
     "ten": "Phong Thiên Tiểu Súc",
     "han": "小畜",
     "tuong": "Tích lũy nhỏ",
-    "tinh_chat": "Nuôi dưỡng",
+    "tinh_chat": "Kiềm chế",
     "ngu_hanh": "Mộc - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những thành quả lớn được tạo nên từ sự tích lũy nhỏ và bền bỉ. Cần biết kiềm chế và chuẩn bị trước khi tiến xa hơn.",
+    "thoan_truyen": "Quẻ Tiểu Súc tượng trưng cho giai đoạn tích lũy nguồn lực và hoàn thiện bản thân. Tuy chưa thích hợp để bứt phá mạnh mẽ, nhưng đây là thời kỳ quan trọng để tạo nền tảng cho thành công về sau.",
+    "tuong_truyen": "Người quân tử chú trọng rèn luyện năng lực, bồi dưỡng phẩm chất và từng bước hoàn thiện mình trước khi đảm nhận việc lớn.",
+    "hao": [
+      "Sơ Cửu: quay về với mục tiêu đúng đắn sẽ tránh được sai lầm.",
+      "Cửu Nhị: kiên trì theo con đường chính giúp duy trì tiến bộ.",
+      "Cửu Tam: nóng vội và thiếu hòa hợp dễ gây trở ngại.",
+      "Lục Tứ: biết mềm dẻo sẽ hóa giải được căng thẳng và áp lực.",
+      "Cửu Ngũ: tích lũy niềm tin và nguồn lực tạo nên sức mạnh lâu dài.",
+      "Thượng Cửu: khi điều kiện đã chín muồi có thể tiến lên, nhưng vẫn cần giữ sự thận trọng.",
+      "Ý nghĩa chung: tích lũy đều đặn hôm nay sẽ tạo nền tảng cho thành công ngày mai."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
