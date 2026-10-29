@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 63,
     "ten": "Thủy Hỏa Ký Tế",
     "han": "既濟",
     "tuong": "Đã hoàn thành",
-    "tinh_chat": "Viên mãn",
+    "tinh_chat": "Hoàn thiện",
     "ngu_hanh": "Thủy - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sau khi đạt được thành công, cần tiếp tục duy trì và hoàn thiện để giữ vững thành quả.",
+    "thoan_truyen": "Quẻ Ký Tế tượng trưng cho trạng thái hoàn thành và cân bằng. Tuy nhiên, mọi thành công đều cần được duy trì bằng sự tỉnh táo và tinh thần không ngừng cải tiến.",
+    "tuong_truyen": "Người quân tử chuẩn bị cho những thay đổi tiếp theo ngay cả khi mọi việc đang thuận lợi.",
+    "hao": [
+      "Sơ Cửu: khởi đầu thuận lợi nhưng không nên chủ quan.",
+      "Lục Nhị: giữ cân bằng giúp duy trì thành quả.",
+      "Cửu Tam: thành công cần được củng cố bằng hành động thực tế.",
+      "Lục Tứ: chú ý những dấu hiệu suy giảm nhỏ.",
+      "Cửu Ngũ: tiếp tục hoàn thiện dù đã đạt kết quả tốt.",
+      "Thượng Lục: tự mãn có thể làm mất những gì đã đạt được.",
+      "Ý nghĩa chung: duy trì thành công đòi hỏi sự tỉnh táo lâu dài."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
