@@ -210,6 +210,80 @@ async function loadHexagramList() {
   document.getElementById("content")
     .innerHTML = html;
 }
+
+async function loadSearch() {
+
+  const response =
+    await fetch("./data/index.json");
+
+  const list =
+    await response.json();
+
+  let html = `
+    <div class="card">
+
+      <h2>Tra cứu Quẻ Dịch</h2>
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Nhập tên quẻ..."
+        style="
+          width:100%;
+          padding:10px;
+          margin-bottom:10px;
+        ">
+
+      <div id="searchResults"></div>
+
+    </div>
+  `;
+
+  document.getElementById("content")
+    .innerHTML = html;
+
+  const input =
+    document.getElementById("searchInput");
+
+  input.addEventListener("input", () => {
+
+    const keyword =
+      input.value.toLowerCase();
+
+    let resultHtml = "";
+
+    list.forEach(item => {
+
+      if (
+        item.ten.toLowerCase().includes(keyword)
+      ) {
+
+        resultHtml += `
+          <div
+            onclick="loadQue('${item.file}')"
+            style="
+              padding:10px;
+              margin-bottom:8px;
+              border:1px solid #ddd;
+              border-radius:8px;
+              cursor:pointer;
+            ">
+
+            ${item.id}. ${item.ten}
+
+          </div>
+        `;
+      }
+
+    });
+
+    document.getElementById("searchResults")
+      .innerHTML = resultHtml;
+
+  });
+
+}
+
 loadMenu();
 
 loadQue("001-kien.json");
