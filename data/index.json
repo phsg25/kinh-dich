@@ -223,5 +223,30 @@
   "id": 45,
   "file": "045-tuy.json",
   "ten": "Trạch Địa Tụy"
+},
+{
+  "id": 46,
+  "file": "046-thang.json",
+  "ten": "Địa Phong Thăng"
+},
+{
+  "id": 47,
+  "file": "047-khon.json",
+  "ten": "Trạch Thủy Khốn"
+},
+{
+  "id": 48,
+  "file": "048-tinh.json",
+  "ten": "Thủy Phong Tỉnh"
+},
+{
+  "id": 49,
+  "file": "049-cach.json",
+  "ten": "Trạch Hỏa Cách"
+},
+{
+  "id": 50,
+  "file": "050-dinh.json",
+  "ten": "Hỏa Phong Đỉnh"
 }
 ]
