@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 61,
+    "ten": "Phong Trạch Trung Phu",
+    "han": "中孚",
+    "tuong": "Chân thành bên trong",
+    "tinh_chat": "Thành tín",
+    "ngu_hanh": "Mộc - Kim",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
