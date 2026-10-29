@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 53,
     "ten": "Phong Sơn Tiệm",
     "han": "漸",
     "tuong": "Tiến dần",
-    "tinh_chat": "Tiệm tiến",
+    "tinh_chat": "Bền bỉ",
     "ngu_hanh": "Mộc - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những thành quả vững chắc được xây dựng bằng sự tiến bộ từng bước và kiên trì lâu dài.",
+    "thoan_truyen": "Quẻ Tiệm tượng trưng cho quá trình phát triển chậm nhưng ổn định. Sự tăng trưởng bền vững thường đến từ những thay đổi nhỏ được duy trì trong thời gian dài.",
+    "tuong_truyen": "Người quân tử tập trung vào tiến bộ từng bước thay vì tìm kiếm thành công tức thời.",
+    "hao": [
+      "Sơ Lục: khởi đầu nhỏ vẫn có giá trị nếu đúng hướng.",
+      "Lục Nhị: kiên trì giúp tạo nền tảng vững chắc.",
+      "Cửu Tam: nóng vội dễ làm gián đoạn tiến trình phát triển.",
+      "Lục Tứ: tiến bộ ổn định tạo niềm tin cho người khác.",
+      "Cửu Ngũ: thành công đến từ sự tích lũy lâu dài.",
+      "Thượng Cửu: thành quả lớn là kết quả của nhiều bước nhỏ.",
+      "Ý nghĩa chung: tiến chậm nhưng chắc thường bền vững hơn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
