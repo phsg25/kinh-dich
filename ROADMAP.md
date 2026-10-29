@@ -61,24 +61,29 @@ https://phsg25.github.io/kinh-dich/
 
 https://github.com/phsg25/kinh-dich
 
-# Checkpoint Beta 1.2
-# Hạ tầng
+# Checkpoint Beta 2.0
+
+## Hạ tầng
 
 ✅ Github Pages
 
 ✅ JSON động
 
-✅ app.js ổn định
+✅ App.js ổn định
 
-✅ style.css ổn định
+✅ CSS ổn định
 
 ✅ Mobile UI ổn định
 
-# Chức năng
+---
+
+## Chức năng
 
 ✅ Dẫn nhập
 
-✅ Bát quái
+✅ Bát Quái
+
+✅ Quẻ Dịch
 
 ✅ Danh sách Quẻ Dịch
 
@@ -86,31 +91,36 @@ https://github.com/phsg25/kinh-dich
 
 ✅ Hiển thị nội dung mở rộng
 
-Dữ liệu
+---
+
+## Dữ liệu
 
 ✅ 64 / 64 quẻ
 
-✅ Kiểm tra điều hướng 64 quẻ
+✅ Kiểm thử điều hướng 64 quẻ
 
-✅ Sửa lỗi các quẻ lỗi (014, 060, 062, 064)
+✅ Đồng bộ dữ liệu
 
-# Nội dung nâng cấp
+✅ Hoàn thiện schema V2
+
+---
+
+## Nội dung V2
 
 ✅ 64 / 64 quẻ
 
-✅ 10 quẻ đầu tiên có nội dung V2
+Bao gồm:
 
-✅ Schema nội dung đã ổn định
+- Quái Từ
+- Thoán Truyện
+- Tượng Truyện
+- Các Hào
 
-✅ Quái Từ
-✅ Thoán Truyện
-✅ Tượng Truyện
-✅ Các Hào
+---
 
-✅ Mobile OK
+## Schema hiện tại
 
-
-# Schema hiện tại
+```json
 {
   "loai": "que",
   "nguon": "",
@@ -130,20 +140,3 @@ Dữ liệu
   "phien_ban": "2.0"
 }
 
-
-# Việc tiếp theo
-⏳ Quẻ 003 - Thủy Lôi Truân
-
-⏳ Quẻ 004 - Sơn Thủy Mông
-
-⏳ Quẻ 005 - Thủy Thiên Nhu
-
-⏳ Quẻ 006 - Thiên Thủy Tụng
-
-⏳ Quẻ 007 - Địa Thủy Sư
-
-⏳ Quẻ 008 - Thủy Địa Tỷ
-
-⏳ Quẻ 009 - Phong Thiên Tiểu Súc
-
-⏳ Quẻ 010 - Thiên Trạch Lý
