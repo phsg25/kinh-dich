@@ -181,9 +181,9 @@ async function loadHexagramList() {
   let html = `
     <div class="card">
 
-      <h2>
-        Danh sách quẻ
-      </h2>
+     <h2>
+  Quẻ Dịch
+</h2>
   `;
 
   list.forEach(item => {
