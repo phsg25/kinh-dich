@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 15,
     "ten": "Địa Sơn Khiêm",
     "han": "謙",
     "tuong": "Khiêm nhường",
-    "tinh_chat": "Nhún nhường",
+    "tinh_chat": "Đức hạnh",
     "ngu_hanh": "Thổ - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự khiêm nhường giúp con người tiếp tục học hỏi và phát triển ngay cả khi đã đạt thành tựu.",
+    "thoan_truyen": "Quẻ Khiêm tượng trưng cho đức tính biết hạ mình và tôn trọng người khác. Đây là nền tảng giúp duy trì các mối quan hệ tốt đẹp và tạo nên thành công lâu dài.",
+    "tuong_truyen": "Người quân tử không khoe khoang thành tựu mà dùng sự khiêm tốn để hoàn thiện bản thân mỗi ngày.",
+    "hao": [
+      "Sơ Lục: khiêm nhường từ những việc nhỏ nhất.",
+      "Lục Nhị: đức khiêm tốn giúp nhận được sự tin tưởng.",
+      "Cửu Tam: có công lao nhưng không tranh công.",
+      "Lục Tứ: biết lắng nghe giúp tránh sai lầm.",
+      "Lục Ngũ: vị trí cao vẫn giữ được sự giản dị.",
+      "Thượng Lục: khiêm nhường mang lại uy tín lâu dài.",
+      "Ý nghĩa chung: càng thành công càng cần giữ sự khiêm tốn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
