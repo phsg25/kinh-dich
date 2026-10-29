@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 40,
+    "ten": "Lôi Thủy Giải",
+    "han": "解",
+    "tuong": "Giải thoát",
+    "tinh_chat": "Cởi mở",
+    "ngu_hanh": "Mộc - Thủy",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
