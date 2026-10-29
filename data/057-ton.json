@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 57,
     "ten": "Thuần Tốn",
     "han": "巽",
     "tuong": "Gió",
-    "tinh_chat": "Thuận nhập",
+    "tinh_chat": "Nhu thuận",
     "ngu_hanh": "Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự mềm dẻo và linh hoạt thường mang lại hiệu quả lâu dài hơn đối đầu trực diện.",
+    "thoan_truyen": "Quẻ Tốn tượng trưng cho ảnh hưởng âm thầm nhưng bền bỉ, giống như gió lan tỏa khắp nơi. Sức mạnh của quẻ nằm ở khả năng thuyết phục và thích nghi.",
+    "tuong_truyen": "Người quân tử dùng sự khiêm nhường và linh hoạt để đạt được mục tiêu.",
+    "hao": [
+      "Sơ Lục: bắt đầu bằng thái độ cởi mở và cầu thị.",
+      "Cửu Nhị: kiên trì trong phương pháp đúng đắn.",
+      "Cửu Tam: thiếu quyết đoán dễ làm lỡ cơ hội.",
+      "Lục Tứ: mềm dẻo giúp hóa giải trở ngại.",
+      "Cửu Ngũ: dùng ảnh hưởng tích cực để dẫn dắt người khác.",
+      "Thượng Cửu: quá do dự có thể làm mất hiệu quả hành động.",
+      "Ý nghĩa chung: linh hoạt là một dạng sức mạnh."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
