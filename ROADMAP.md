@@ -74,6 +74,8 @@ Beta 0.7
 
 ✅ Dynamic JSON loading
 
+✅ Dynamic menu
+
 ✅ Schema dữ liệu chuẩn hóa
 
 ✅ Dẫn nhập hoạt động
@@ -91,6 +93,33 @@ Beta 0.7
 ✅ 003 Thủy Lôi Truân
 
 ✅ 004 Sơn Thủy Mông
+
+### Kiến trúc hiện tại
+
+📚 Dẫn nhập ✅
+
+☰ Bát quái ✅
+
+📖 Quẻ Dịch ✅
+
+🔍 Tra cứu ⏳
+
+### Việc tiếp theo
+
+1. Tạo 005 Nhu
+2. Tạo 006 Tụng
+3. Tạo 007 Sư
+4. Tạo 008 Tỷ
+5. Hoàn thiện module Tra cứu
+6. Loại bỏ menu test khi có khoảng 10 quẻ
+
+### Ghi chú
+
+Hiện vẫn giữ menu quẻ phía dưới
+(Thuần Càn, Thuần Khôn, Thủy Lôi Truân, Sơn Thủy Mông)
+để phục vụ thử nghiệm.
+
+Sẽ loại bỏ khi số lượng quẻ đạt khoảng 10 quẻ trở lên.
 
 ### Việc tiếp theo
 
