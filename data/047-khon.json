@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 47,
     "ten": "Trạch Thủy Khốn",
     "han": "困",
     "tuong": "Khốn khó",
-    "tinh_chat": "Kiên trì",
+    "tinh_chat": "Nghị lực",
     "ngu_hanh": "Kim - Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Trong nghịch cảnh, điều quan trọng nhất là giữ vững ý chí và niềm tin vào giá trị của mình.",
+    "thoan_truyen": "Quẻ Khốn tượng trưng cho hoàn cảnh thiếu thốn hoặc bị giới hạn. Đây là lúc cần phát huy nội lực và khả năng thích nghi để vượt qua thử thách.",
+    "tuong_truyen": "Người quân tử giữ phẩm chất tốt đẹp ngay cả khi gặp hoàn cảnh khó khăn.",
+    "hao": [
+      "Sơ Lục: khó khăn ban đầu là cơ hội để rèn luyện.",
+      "Cửu Nhị: giữ vững tinh thần giúp giảm bớt áp lực.",
+      "Lục Tam: bi quan khiến tình hình trở nên nặng nề hơn.",
+      "Cửu Tứ: biết tìm kiếm sự hỗ trợ đúng lúc.",
+      "Cửu Ngũ: nghị lực giúp vượt qua thử thách lớn.",
+      "Thượng Lục: sau khó khăn sẽ xuất hiện cơ hội mới.",
+      "Ý nghĩa chung: nghịch cảnh có thể trở thành động lực trưởng thành."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
