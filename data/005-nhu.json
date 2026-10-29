@@ -1,0 +1,32 @@
+{
+  "loai": "que",
+
+  "nguon": "kinh_dich",
+
+  "du_lieu": {
+
+    "id": 5,
+
+    "ten": "Thủy Thiên Nhu",
+
+    "han": "需",
+
+    "tuong": "Chờ đợi",
+
+    "tinh_chat": "Kiên nhẫn",
+
+    "ngu_hanh": "Thủy - Kim",
+
+    "quai_tu": "chưa cập nhật",
+
+    "thoan_truyen": "chưa cập nhật",
+
+    "tuong_truyen": "chưa cập nhật",
+
+    "hao": "chưa cập nhật"
+  },
+
+  "ghi_chu": "chưa cập nhật",
+
+  "phien_ban": "1.0"
+}
