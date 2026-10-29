@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 18,
     "ten": "Sơn Phong Cổ",
     "han": "蠱",
-    "tuong": "Chấn chỉnh",
-    "tinh_chat": "Cải cách",
+    "tuong": "Sửa chữa điều hư hỏng",
+    "tinh_chat": "Cải thiện",
     "ngu_hanh": "Thổ - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những vấn đề tồn đọng cần được nhận diện và xử lý dứt điểm để tạo nền tảng cho sự phát triển mới.",
+    "thoan_truyen": "Quẻ Cổ tượng trưng cho việc cải sửa những sai sót tích tụ theo thời gian. Muốn tiến bộ cần nhìn thẳng vào vấn đề và chủ động thay đổi.",
+    "tuong_truyen": "Người quân tử dùng sự tỉnh táo và trách nhiệm để khắc phục sai lầm, cải thiện hiện trạng.",
+    "hao": [
+      "Sơ Lục: nhận ra sai sót là bước đầu của thay đổi.",
+      "Cửu Nhị: sửa chữa bằng tinh thần trách nhiệm.",
+      "Cửu Tam: cải cách cần quyết tâm nhưng tránh cực đoan.",
+      "Lục Tứ: chần chừ dễ khiến vấn đề kéo dài.",
+      "Lục Ngũ: xử lý đúng gốc rễ sẽ đem lại chuyển biến tích cực.",
+      "Thượng Cửu: hoàn thành việc sửa chữa và mở ra giai đoạn mới.",
+      "Ý nghĩa chung: dũng cảm sửa sai là nền tảng của trưởng thành."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
