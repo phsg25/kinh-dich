@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 36,
     "ten": "Địa Hỏa Minh Di",
@@ -8,11 +8,19 @@
     "tuong": "Ánh sáng bị che khuất",
     "tinh_chat": "Ẩn nhẫn",
     "ngu_hanh": "Thổ - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi hoàn cảnh không thuận lợi, cần giữ vững nội lực và chờ thời cơ thích hợp để phát huy khả năng.",
+    "thoan_truyen": "Quẻ Minh Di tượng trưng cho giai đoạn tài năng hoặc giá trị đúng đắn chưa được nhìn nhận. Đây là lúc cần bảo vệ điều tốt đẹp bên trong thay vì đối đầu trực diện.",
+    "tuong_truyen": "Người quân tử giữ vững đạo đức và lý tưởng ngay cả khi gặp nghịch cảnh.",
+    "hao": [
+      "Sơ Cửu: nhận ra khó khăn từ sớm giúp tránh tổn thất lớn.",
+      "Lục Nhị: giữ sự ngay thẳng trong hoàn cảnh bất lợi.",
+      "Cửu Tam: biết tiến lui linh hoạt để bảo vệ mục tiêu.",
+      "Lục Tứ: hiểu rõ hoàn cảnh để lựa chọn cách ứng xử phù hợp.",
+      "Lục Ngũ: kiên trì giữ điều đúng đắn dù không được công nhận ngay.",
+      "Thượng Lục: sau giai đoạn khó khăn sẽ xuất hiện cơ hội mới.",
+      "Ý nghĩa chung: bảo vệ giá trị cốt lõi trong thời kỳ thử thách."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
