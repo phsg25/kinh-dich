@@ -89,27 +89,11 @@ https://github.com/phsg25/kinh-dich
 
 KINH DỊCH
 
-Version: Beta 0.5
+version Beta 0.6
 
-✅ Github Pages
-
-✅ Website live
-
-✅ Theme giao diện
-
-✅ Dynamic JSON loading
-
-✅ Schema chuẩn hóa
-
-✅ 001-kien.json
-
-✅ 002-khon.json
-
-✅ 003-truan.json
-
-✅ dan-nhap.json
-
-✅ bat-quai.json
+✅ Dẫn nhập hoạt động
+✅ Bát quái hoạt động
+✅ 64 quẻ hoạt động
 
 ✅ ROADMAP.md
 
