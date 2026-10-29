@@ -9,7 +9,7 @@
 
 ✅ index.json
 
-✅ 001 -> 010
+✅ 001 -> 020 Quẻ Dịch
 
 
 ## Chuẩn dữ liệu
