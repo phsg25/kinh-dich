@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 6,
     "ten": "Thiên Thủy Tụng",
     "han": "訟",
     "tuong": "Tranh tụng",
-    "tinh_chat": "Cẩn trọng",
+    "tinh_chat": "Thận trọng",
     "ngu_hanh": "Kim - Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi xuất hiện tranh chấp, cần giữ lý trí và tìm giải pháp công bằng thay vì đối đầu đến cùng.",
+    "thoan_truyen": "Quẻ Tụng tượng trưng cho bất đồng và xung đột phát sinh từ khác biệt lợi ích hoặc quan điểm. Thành công không nằm ở việc thắng thua mà ở khả năng giải quyết mâu thuẫn đúng đắn.",
+    "tuong_truyen": "Người quân tử cân nhắc kỹ lưỡng trước khi hành động và luôn ưu tiên sự công bằng trong mọi quyết định.",
+    "hao": [
+      "Sơ Lục: mâu thuẫn nhỏ nên giải quyết sớm để tránh kéo dài.",
+      "Cửu Nhị: biết nhường nhịn đúng lúc sẽ giảm tổn thất.",
+      "Lục Tam: cố chấp dễ khiến tranh chấp trở nên phức tạp.",
+      "Cửu Tứ: lắng nghe và điều chỉnh giúp hóa giải đối đầu.",
+      "Cửu Ngũ: công tâm và chính trực tạo được sự tín phục.",
+      "Thượng Cửu: theo đuổi thắng lợi bằng mọi giá dễ dẫn đến hậu quả không mong muốn.",
+      "Ý nghĩa chung: dùng lý trí và công bằng để xử lý bất đồng."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
