@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 60,
     "ten": "Thủy Trạch Tiết",
@@ -8,11 +8,19 @@
     "tuong": "Tiết chế",
     "tinh_chat": "Điều độ",
     "ngu_hanh": "Thủy - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Biết giới hạn và điều tiết hợp lý giúp duy trì sự cân bằng và phát triển bền vững.",
+    "thoan_truyen": "Quẻ Tiết tượng trưng cho nguyên tắc, giới hạn và sự điều độ. Tự do chỉ thực sự có giá trị khi đi cùng trách nhiệm và khả năng tự kiểm soát.",
+    "tuong_truyen": "Người quân tử xây dựng nguyên tắc rõ ràng để giữ cân bằng trong cuộc sống và công việc.",
+    "hao": [
+      "Sơ Cửu: rèn luyện tính kỷ luật từ những việc nhỏ.",
+      "Cửu Nhị: biết giới hạn giúp tránh sai lầm.",
+      "Lục Tam: buông thả dễ gây mất cân bằng.",
+      "Lục Tứ: áp dụng nguyên tắc một cách linh hoạt.",
+      "Cửu Ngũ: điều độ giúp duy trì sự ổn định lâu dài.",
+      "Thượng Lục: quá khắt khe cũng có thể tạo áp lực không cần thiết.",
+      "Ý nghĩa chung: cân bằng là nền tảng của phát triển bền vững."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
