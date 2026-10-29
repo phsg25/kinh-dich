@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 23,
     "ten": "Sơn Địa Bác",
     "han": "剝",
-    "tuong": "Bóc mòn",
+    "tuong": "Bào mòn",
     "tinh_chat": "Suy giảm",
     "ngu_hanh": "Thổ - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi nền tảng bị suy yếu, cần tập trung bảo tồn giá trị cốt lõi và tránh mạo hiểm không cần thiết.",
+    "thoan_truyen": "Quẻ Bác tượng trưng cho thời kỳ suy giảm và mất cân bằng. Đây không phải lúc để mở rộng mà là thời điểm củng cố nền móng và chờ đợi cơ hội phục hồi.",
+    "tuong_truyen": "Người quân tử giữ vững đạo đức và nguyên tắc trong lúc hoàn cảnh bất lợi.",
+    "hao": [
+      "Sơ Lục: dấu hiệu suy giảm xuất hiện từ những điều nhỏ.",
+      "Lục Nhị: nền tảng bắt đầu chịu tác động rõ rệt.",
+      "Lục Tam: cần tỉnh táo để nhận ra nguy cơ.",
+      "Lục Tứ: bảo vệ giá trị cốt lõi để giảm tổn thất.",
+      "Lục Ngũ: vẫn còn cơ hội duy trì điều tốt đẹp.",
+      "Thượng Cửu: sau suy giảm sẽ mở ra cơ hội tái thiết.",
+      "Ý nghĩa chung: biết giữ gốc rễ trong thời kỳ khó khăn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
