@@ -1,10 +1,8 @@
 {
   "loai": "que",
-
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
 
   "du_lieu": {
-
     "id": 1,
 
     "ten": "Thuần Càn",
@@ -17,16 +15,24 @@
 
     "ngu_hanh": "Kim",
 
-    "quai_tu": "chưa cập nhật",
+    "quai_tu": "Khởi đầu, hanh thông, thuận lợi và bền vững.",
 
-    "thoan_truyen": "chưa cập nhật",
+    "thoan_truyen": "Biểu tượng cho sức sáng tạo của Trời, sự vận hành không ngừng và tinh thần tự cường của người quân tử.",
 
-    "tuong_truyen": "chưa cập nhật",
+    "tuong_truyen": "Người quân tử noi theo đạo Trời để không ngừng học tập, rèn luyện và hoàn thiện bản thân.",
 
-    "hao": "chưa cập nhật"
+    "hao": [
+      "Sơ Cửu: tài năng còn tiềm ẩn.",
+      "Cửu Nhị: xuất hiện đúng thời.",
+      "Cửu Tam: nỗ lực không ngừng.",
+      "Cửu Tứ: chuẩn bị tiến lên vị trí cao hơn.",
+      "Cửu Ngũ: lãnh đạo chính đáng.",
+      "Thượng Cửu: cực thịnh dễ suy.",
+      "Dụng Cửu: lấy đức khiêm nhường để điều hòa sức mạnh."
+    ]
   },
 
-  "ghi_chu": "chưa cập nhật",
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
 
-  "phien_ban": "1.0"
+  "phien_ban": "2.0"
 }
