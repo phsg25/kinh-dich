@@ -98,5 +98,30 @@
   "id": 20,
   "file": "020-quan.json",
   "ten": "Phong Địa Quán"
+},
+{
+  "id": 21,
+  "file": "021-can-can.json",
+  "ten": "Hỏa Lôi Cắn Cắn"
+},
+{
+  "id": 22,
+  "file": "022-bi.json",
+  "ten": "Sơn Hỏa Bí"
+},
+{
+  "id": 23,
+  "file": "023-bac.json",
+  "ten": "Sơn Địa Bác"
+},
+{
+  "id": 24,
+  "file": "024-phuc.json",
+  "ten": "Địa Lôi Phục"
+},
+{
+  "id": 25,
+  "file": "025-vo-vong.json",
+  "ten": "Thiên Lôi Vô Vọng"
 }
 ]
