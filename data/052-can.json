@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 52,
     "ten": "Thuần Cấn",
@@ -8,11 +8,19 @@
     "tuong": "Núi",
     "tinh_chat": "Dừng lại",
     "ngu_hanh": "Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Biết dừng đúng lúc là biểu hiện của sự sáng suốt và tự chủ.",
+    "thoan_truyen": "Quẻ Cấn tượng trưng cho sự tĩnh lặng và khả năng kiểm soát bản thân. Không phải lúc nào tiến lên cũng là lựa chọn tốt nhất, đôi khi dừng lại để suy ngẫm mới là điều cần thiết.",
+    "tuong_truyen": "Người quân tử giữ sự điềm tĩnh và biết tự nhìn lại để điều chỉnh hành động.",
+    "hao": [
+      "Sơ Lục: dừng lại trước khi mắc sai lầm lớn.",
+      "Lục Nhị: biết giới hạn của bản thân.",
+      "Cửu Tam: cố chấp tiến lên dễ gặp trở ngại.",
+      "Lục Tứ: giữ tâm bình ổn giữa nhiều áp lực.",
+      "Lục Ngũ: sự điềm tĩnh tạo nên quyết định sáng suốt.",
+      "Thượng Cửu: dừng đúng lúc giúp bảo toàn thành quả.",
+      "Ý nghĩa chung: tự chủ là nền tảng của trí tuệ."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
