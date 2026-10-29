@@ -248,5 +248,30 @@
   "id": 50,
   "file": "050-dinh.json",
   "ten": "Hỏa Phong Đỉnh"
+},
+{
+  "id": 51,
+  "file": "051-chan.json",
+  "ten": "Thuần Chấn"
+},
+{
+  "id": 52,
+  "file": "052-can.json",
+  "ten": "Thuần Cấn"
+},
+{
+  "id": 53,
+  "file": "053-tiem.json",
+  "ten": "Phong Sơn Tiệm"
+},
+{
+  "id": 54,
+  "file": "054-quy-muoi.json",
+  "ten": "Lôi Trạch Quy Muội"
+},
+{
+  "id": 55,
+  "file": "055-phong.json",
+  "ten": "Lôi Hỏa Phong"
 }
 ]
