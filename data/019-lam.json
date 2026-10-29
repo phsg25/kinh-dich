@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 19,
     "ten": "Địa Trạch Lâm",
     "han": "臨",
     "tuong": "Tiếp cận",
-    "tinh_chat": "Dẫn dắt",
+    "tinh_chat": "Quan tâm",
     "ngu_hanh": "Thổ - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự phát triển tốt đẹp bắt đầu từ việc quan tâm, thấu hiểu và đến gần với nhu cầu thực tế.",
+    "thoan_truyen": "Quẻ Lâm tượng trưng cho thời kỳ thuận lợi để lãnh đạo, hướng dẫn và hỗ trợ người khác. Đây là lúc chủ động tiếp cận và tạo dựng ảnh hưởng tích cực.",
+    "tuong_truyen": "Người quân tử dùng lòng chân thành để hiểu và giúp đỡ người khác phát triển.",
+    "hao": [
+      "Sơ Cửu: chủ động tiếp cận tạo nên cơ hội mới.",
+      "Cửu Nhị: chân thành giúp xây dựng niềm tin.",
+      "Lục Tam: thiếu quan tâm dễ tạo khoảng cách.",
+      "Lục Tứ: biết lắng nghe sẽ thấu hiểu hơn.",
+      "Lục Ngũ: lãnh đạo bằng sự gần gũi và trách nhiệm.",
+      "Thượng Lục: duy trì ảnh hưởng tích cực bằng sự bền bỉ.",
+      "Ý nghĩa chung: thành công lớn bắt đầu từ sự quan tâm đúng cách."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
