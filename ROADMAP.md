@@ -61,8 +61,9 @@ https://phsg25.github.io/kinh-dich/
 
 https://github.com/phsg25/kinh-dich
 
-## Checkpoint Beta 1.0
-Hoàn thành
+# Checkpoint Beta 1.1
+
+## Hoàn thành
 
 ✅ Dẫn nhập
 
@@ -78,11 +79,29 @@ Hoàn thành
 
 ✅ Quẻ mẫu 001 nâng cấp nội dung
 
+✅ Hỗ trợ Quái Từ
+
+✅ Hỗ trợ Thoán Truyện
+
+✅ Hỗ trợ Tượng Truyện
+
+✅ Hỗ trợ Các Hào
+
 ✅ Mobile UI ổn định
+
+✅ Github Pages
 
 ✅ JSON động
 
-✅ Github Pages
+---
+
+## Tiến độ dữ liệu
+
+64 / 64 quẻ
+
+100%
+
+---
 
 ## Kiến trúc hiện tại
 
@@ -94,23 +113,35 @@ Hoàn thành
 
 🔍 Tra cứu V2 ✅
 
+📱 Mobile Friendly ✅
+
+---
 
 ## Nội dung mở rộng
 
-Quẻ 001 đã hỗ trợ:
+Đã hoàn thành:
 
-✅ Quái Từ
+✅ Quẻ 001 Thuần Càn
 
-✅ Thoán Truyện
+Hỗ trợ:
 
-✅ Tượng Truyện
+- Quái Từ
+- Thoán Truyện
+- Tượng Truyện
+- Các Hào
 
-✅ Các Hào
+Schema hiện tại:
 
-## Việc tiếp theo
-Nâng cấp Quẻ 002 Thuần Khôn theo schema mới
-Chuẩn hóa schema nội dung cho toàn bộ 64 quẻ
-Tạo quy trình PDF → Tóm tắt → JSON
-Bổ sung nội dung từ Tập 2 (Thượng Kinh)
-Bổ sung nội dung từ Tập 3 (Hạ Kinh)
-Xem xét ẩn menu test phía dưới
+```json
+{
+  "id": 1,
+  "ten": "",
+  "han": "",
+  "tuong": "",
+  "tinh_chat": "",
+  "ngu_hanh": "",
+  "quai_tu": "",
+  "thoan_truyen": "",
+  "tuong_truyen": "",
+  "hao": []
+}
