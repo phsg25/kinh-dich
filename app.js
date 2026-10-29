@@ -52,20 +52,11 @@ async function loadQue(file) {
 
 <hr>
 
-<p>
-  Tượng: ${q.tuong}
-</p>
+<p>Tượng: ${q.tuong}</p>
 
+<p>Tính chất: ${q.tinh_chat}</p>
 
-      <p>
-        Tính chất:
-        ${q.tinh_chat}
-      </p>
-
-      <p>
-        Ngũ hành:
-        ${q.ngu_hanh}
-      </p>
+<p>Ngũ hành: ${q.ngu_hanh}</p>
   `;
 
   if (
