@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 27,
     "ten": "Sơn Lôi Di",
     "han": "頤",
     "tuong": "Nuôi dưỡng",
-    "tinh_chat": "Dưỡng sinh",
+    "tinh_chat": "Chăm sóc",
     "ngu_hanh": "Thổ - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Muốn phát triển lâu dài cần biết nuôi dưỡng cả thân thể, trí tuệ và phẩm chất của bản thân.",
+    "thoan_truyen": "Quẻ Di tượng trưng cho việc nuôi dưỡng và bồi đắp những điều thiết yếu trong cuộc sống. Chất lượng của những gì ta tiếp nhận sẽ ảnh hưởng trực tiếp đến sự phát triển của bản thân.",
+    "tuong_truyen": "Người quân tử chú trọng việc học tập, rèn luyện và lựa chọn những giá trị tích cực để nuôi dưỡng tâm trí.",
+    "hao": [
+      "Sơ Cửu: cần xây dựng nền tảng vững chắc ngay từ đầu.",
+      "Lục Nhị: tiếp nhận điều đúng đắn giúp phát triển ổn định.",
+      "Lục Tam: lựa chọn sai nguồn nuôi dưỡng dễ gây tổn hại.",
+      "Lục Tứ: biết chăm sóc bản thân và người khác đúng cách.",
+      "Lục Ngũ: giữ cân bằng trong việc cho và nhận.",
+      "Thượng Cửu: thành quả phản ánh những gì đã tích lũy từ trước.",
+      "Ý nghĩa chung: sự phát triển bền vững bắt đầu từ việc nuôi dưỡng đúng đắn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
