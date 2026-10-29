@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 61,
     "ten": "Phong Trạch Trung Phu",
     "han": "中孚",
-    "tuong": "Chân thành bên trong",
-    "tinh_chat": "Thành tín",
+    "tuong": "Thành tín",
+    "tinh_chat": "Chân thành",
     "ngu_hanh": "Mộc - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự chân thành tạo nên lòng tin và là nền tảng cho mọi mối quan hệ bền vững.",
+    "thoan_truyen": "Quẻ Trung Phu tượng trưng cho sự thành thật xuất phát từ nội tâm. Khi lời nói và hành động thống nhất với nhau, con người dễ nhận được sự tín nhiệm và hợp tác từ người khác.",
+    "tuong_truyen": "Người quân tử lấy đức thành tín làm nền tảng để xây dựng các mối quan hệ và hoàn thành công việc.",
+    "hao": [
+      "Sơ Cửu: lòng tin được xây dựng từ những hành động nhỏ.",
+      "Cửu Nhị: chân thành giúp tạo nên sự đồng cảm.",
+      "Lục Tam: dao động dễ làm suy giảm niềm tin.",
+      "Lục Tứ: giữ sự trung thực trong mọi hoàn cảnh.",
+      "Cửu Ngũ: thành tín giúp quy tụ và dẫn dắt người khác.",
+      "Thượng Cửu: lời nói cần đi đôi với hành động.",
+      "Ý nghĩa chung: lòng tin là tài sản quý giá cần được gìn giữ."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
