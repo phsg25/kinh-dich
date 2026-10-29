@@ -299,8 +299,6 @@ async function loadSearch() {
 
 }
 
-}
-
 loadMenu();
 
 loadQue("001-kien.json");
