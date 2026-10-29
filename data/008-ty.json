@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 8,
     "ten": "Thủy Địa Tỷ",
     "han": "比",
     "tuong": "Gắn kết",
-    "tinh_chat": "Hòa hợp",
+    "tinh_chat": "Hợp tác",
     "ngu_hanh": "Thủy - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự đoàn kết và hợp tác đúng đắn giúp tạo nên sức mạnh bền vững và mang lại thành công lâu dài.",
+    "thoan_truyen": "Quẻ Tỷ tượng trưng cho sự đồng lòng giữa con người với con người. Khi các cá nhân cùng hướng đến mục tiêu chung và xây dựng niềm tin lẫn nhau, tập thể sẽ trở nên vững mạnh.",
+    "tuong_truyen": "Người quân tử biết kết giao đúng người, xây dựng sự tin cậy và dùng tinh thần hợp tác để tạo nên thành quả chung.",
+    "hao": [
+      "Sơ Lục: kết nối bằng sự chân thành ngay từ đầu.",
+      "Lục Nhị: giữ trung thực sẽ duy trì được sự gắn bó lâu dài.",
+      "Lục Tam: kết giao sai người dễ dẫn đến rắc rối.",
+      "Lục Tứ: biết hợp tác đúng cách giúp công việc tiến triển thuận lợi.",
+      "Cửu Ngũ: trở thành trung tâm quy tụ và dẫn dắt tập thể.",
+      "Thượng Lục: cô lập bản thân sẽ làm suy yếu sự hỗ trợ từ người khác.",
+      "Ý nghĩa chung: xây dựng niềm tin là nền tảng của mọi mối quan hệ bền vững."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
