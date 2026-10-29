@@ -59,9 +59,16 @@ https://github.com/phsg25/kinh-dich
 
 ## Checkpoint Beta 1.0
 
-✅ 40 quẻ đầu tiên
-✅ Dẫn nhập
-✅ Bát quái
-✅ Quẻ Dịch
+✅ 40 quẻ
+
 ✅ Tra cứu V2
-✅ 40/64 quẻ
+
+✅ Quẻ mẫu 001
+
+✅ Hỗ trợ:
+   - Quái Từ
+   - Thoán Truyện
+   - Tượng Truyện
+   - Các Hào
+
+✅ Mobile OK
