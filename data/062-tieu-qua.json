@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 62,
     "ten": "Lôi Sơn Tiểu Quá",
     "han": "小過",
-    "tuong": "Nhỏ vượt quá",
+    "tuong": "Vượt nhỏ",
     "tinh_chat": "Thận trọng",
     "ngu_hanh": "Mộc - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Trong những việc nhỏ có thể linh hoạt, nhưng những quyết định lớn cần được cân nhắc kỹ lưỡng.",
+    "thoan_truyen": "Quẻ Tiểu Quá tượng trưng cho thời kỳ thích hợp với những điều chỉnh vừa phải hơn là các thay đổi lớn. Sự cẩn trọng giúp hạn chế sai lầm và duy trì ổn định.",
+    "tuong_truyen": "Người quân tử chú ý đến những chi tiết nhỏ và luôn hành động trong khả năng của mình.",
+    "hao": [
+      "Sơ Lục: tránh hấp tấp trong những việc mới bắt đầu.",
+      "Lục Nhị: biết giới hạn giúp duy trì sự ổn định.",
+      "Cửu Tam: tham vọng quá mức dễ dẫn đến sai lầm.",
+      "Cửu Tứ: điều chỉnh từng bước tạo hiệu quả tốt hơn.",
+      "Lục Ngũ: tập trung vào những việc thiết thực.",
+      "Thượng Lục: vượt quá giới hạn sẽ tạo rủi ro không cần thiết.",
+      "Ý nghĩa chung: những bước nhỏ đúng hướng tạo nên kết quả lớn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
