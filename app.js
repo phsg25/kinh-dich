@@ -269,7 +269,7 @@ async function loadHexagramList() {
         "
         onclick="loadQue('${item.file}')">
 
-        ${item.id}. ${item.ten}
+        ${String(item.id).padStart(2, "0")}. ${item.ten}
 
       </div>
     `;
