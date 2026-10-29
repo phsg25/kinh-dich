@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 9,
+    "ten": "Phong Thiên Tiểu Súc",
+    "han": "小畜",
+    "tuong": "Tích lũy nhỏ",
+    "tinh_chat": "Nuôi dưỡng",
+    "ngu_hanh": "Mộc - Kim",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
