@@ -34,6 +34,13 @@ Không bói toán
 Không tiên tri
 Không phán vận mệnh
 Tập trung vào học tập, nghiên cứu và đối chiếu
+## Nguồn tham khảo
+
+✅ Tập 1 - Dịch Kinh Đại Toàn Tập 1 (Yếu Chỉ)
+
+✅ Tập 2 - Dịch Kinh Đại Toàn Tập 2 (Thượng Kinh)
+
+✅ Tập 3 - Dịch Kinh Đại Toàn Tập 3 (Hạ Kinh)
 
 ## Lệnh khởi động phiên làm việc
 
