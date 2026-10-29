@@ -182,7 +182,7 @@ async function loadHexagramList() {
     <div class="card">
 
      <h2>
-  Quẻ Dịch
+  Danh sách Quẻ Dịch
 </h2>
   `;
 
