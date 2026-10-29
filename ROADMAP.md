@@ -96,16 +96,19 @@ Dữ liệu
 
 # Nội dung nâng cấp
 
-✅ Quẻ 001 - Thuần Càn
+✅ 64 / 64 quẻ
 
-✅ Quẻ 002 - Thuần Khôn
+✅ 10 quẻ đầu tiên có nội dung V2
 
-Hỗ trợ:
+✅ Schema nội dung đã ổn định
 
-Quái Từ
-Thoán Truyện
-Tượng Truyện
-Các Hào
+✅ Quái Từ
+✅ Thoán Truyện
+✅ Tượng Truyện
+✅ Các Hào
+
+✅ Mobile OK
+
 
 # Schema hiện tại
 {
