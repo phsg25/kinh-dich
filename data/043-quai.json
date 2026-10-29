@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 43,
     "ten": "Trạch Thiên Quải",
@@ -8,11 +8,19 @@
     "tuong": "Quyết đoán",
     "tinh_chat": "Dứt khoát",
     "ngu_hanh": "Kim - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi điều đúng đã rõ ràng, cần có sự quyết đoán để hành động và loại bỏ những cản trở kéo dài.",
+    "thoan_truyen": "Quẻ Quải tượng trưng cho thời điểm cần đưa ra quyết định quan trọng. Sự dứt khoát giúp giải quyết những vấn đề tồn đọng và mở đường cho sự phát triển tiếp theo.",
+    "tuong_truyen": "Người quân tử kiên định với điều đúng và hành động minh bạch, công khai.",
+    "hao": [
+      "Sơ Cửu: quyết tâm cần đi cùng sự chuẩn bị.",
+      "Cửu Nhị: giữ bình tĩnh trước khi hành động.",
+      "Cửu Tam: nóng vội dễ dẫn đến sai lầm.",
+      "Cửu Tứ: kiên trì theo đuổi mục tiêu đúng đắn.",
+      "Cửu Ngũ: quyết định dựa trên nguyên tắc và trách nhiệm.",
+      "Thượng Lục: cực đoan có thể làm mất đi thành quả đạt được.",
+      "Ý nghĩa chung: quyết đoán hiệu quả phải dựa trên sự sáng suốt."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
