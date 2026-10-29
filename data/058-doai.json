@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 58,
+    "ten": "Thuần Đoài",
+    "han": "兌",
+    "tuong": "Đầm",
+    "tinh_chat": "Vui vẻ",
+    "ngu_hanh": "Kim",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
