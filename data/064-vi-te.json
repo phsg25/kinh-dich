@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 64,
+    "ten": "Hỏa Thủy Vị Tế",
+    "han": "未濟",
+    "tuong": "Chưa hoàn thành",
+    "tinh_chat": "Tiếp tục phát triển",
+    "ngu_hanh": "Hỏa - Thủy",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
