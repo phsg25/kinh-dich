@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 4,
     "ten": "Sơn Thủy Mông",
     "han": "蒙",
-    "tuong": "Non trẻ, học hỏi",
-    "tinh_chat": "Khai mở",
+    "tuong": "Non trẻ, chưa khai mở",
+    "tinh_chat": "Giáo dục",
     "ngu_hanh": "Thổ - Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Thời kỳ chưa hiểu biết cần được chỉ dẫn đúng đắn. Học hỏi với thái độ khiêm tốn sẽ giúp mở mang trí tuệ và trưởng thành.",
+    "thoan_truyen": "Quẻ Mông tượng trưng cho sự non trẻ và thiếu kinh nghiệm. Muốn phát triển cần có người hướng dẫn, đồng thời phải giữ tinh thần cầu học và biết tự rèn luyện bản thân.",
+    "tuong_truyen": "Người quân tử dùng giáo dục và kỷ luật để khai mở nhận thức, giúp bản thân và người khác từng bước thoát khỏi sự mê mờ.",
+    "hao": [
+      "Sơ Lục: cần được hướng dẫn ngay từ đầu để tránh sai lầm.",
+      "Cửu Nhị: người có năng lực nên kiên nhẫn dìu dắt người mới.",
+      "Lục Tam: ham muốn nhất thời dễ làm mất phương hướng.",
+      "Lục Tứ: thiếu người hướng dẫn nên dễ lâm vào cô lập.",
+      "Lục Ngũ: giữ tinh thần học hỏi sẽ nhận được lợi ích lớn.",
+      "Thượng Cửu: giáo dục nghiêm khắc nhưng không cực đoan.",
+      "Ý nghĩa chung: lấy học tập và rèn luyện làm nền tảng phát triển."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
