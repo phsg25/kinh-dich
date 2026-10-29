@@ -1,32 +1,26 @@
 {
   "loai": "que",
-
-  "nguon": "kinh_dich",
-
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
-
     "id": 2,
-
     "ten": "Thuần Khôn",
-
     "han": "坤",
-
     "tuong": "Đất",
-
     "tinh_chat": "Thuận",
-
     "ngu_hanh": "Thổ",
-
-    "quai_tu": "chưa cập nhật",
-
-    "thoan_truyen": "chưa cập nhật",
-
-    "tuong_truyen": "chưa cập nhật",
-
-    "hao": "chưa cập nhật"
+    "quai_tu": "Tiếp nhận, nâng đỡ, nuôi dưỡng và hoàn thành. Thành công đến từ sự khiêm tốn, bền bỉ và thuận theo quy luật.",
+    "thoan_truyen": "Quẻ Khôn tượng trưng cho Đất, mang đức tính bao dung và tiếp nhận. Sức mạnh của Khôn nằm ở khả năng hỗ trợ, nuôi dưỡng và hoàn thành những gì đã được khởi đầu.",
+    "tuong_truyen": "Người quân tử noi theo đức của đất, lấy sự rộng lượng, kiên nhẫn và trách nhiệm để nâng đỡ người khác và hoàn thành công việc.",
+    "hao": [
+      "Sơ Lục: dấu hiệu ban đầu của thay đổi cần được chú ý.",
+      "Lục Nhị: trung chính, thuận đức và đáng tin cậy.",
+      "Lục Tam: làm việc âm thầm, không tranh công.",
+      "Lục Tứ: thận trọng, giữ đúng vị trí của mình.",
+      "Lục Ngũ: đức khiêm nhường đem lại thành công lớn.",
+      "Thượng Lục: cực thịnh dễ dẫn đến xung đột.",
+      "Dụng Lục: lấy nhu thuận để duy trì sự bền vững."
+    ]
   },
-
-  "ghi_chu": "chưa cập nhật",
-
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
