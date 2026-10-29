@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 25,
     "ten": "Thiên Lôi Vô Vọng",
     "han": "無妄",
-    "tuong": "Chân thành",
-    "tinh_chat": "Tự nhiên",
+    "tuong": "Không vọng động",
+    "tinh_chat": "Chân thành",
     "ngu_hanh": "Kim - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Hành động xuất phát từ sự chân thành và chính trực sẽ mang lại kết quả tốt đẹp hơn mọi toan tính thiếu thực tế.",
+    "thoan_truyen": "Quẻ Vô Vọng tượng trưng cho sự chân thật và thuận theo lẽ tự nhiên. Khi loại bỏ những ham muốn và suy nghĩ lệch lạc, con người sẽ hành động đúng đắn hơn.",
+    "tuong_truyen": "Người quân tử lấy sự trung thực làm nền tảng cho mọi quyết định và hành động.",
+    "hao": [
+      "Sơ Cửu: giữ sự ngay thẳng từ đầu sẽ tránh sai lầm.",
+      "Lục Nhị: chân thành giúp công việc tiến triển thuận lợi.",
+      "Lục Tam: hành động theo cảm tính dễ gây tổn thất.",
+      "Cửu Tứ: giữ đúng nguyên tắc trước áp lực bên ngoài.",
+      "Cửu Ngũ: sự chính trực tạo ảnh hưởng tích cực.",
+      "Thượng Cửu: cố chấp vào điều sai sẽ dẫn đến khó khăn.",
+      "Ý nghĩa chung: sống đúng với giá trị thật của bản thân."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
