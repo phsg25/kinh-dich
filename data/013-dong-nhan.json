@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 13,
     "ten": "Thiên Hỏa Đồng Nhân",
@@ -8,11 +8,19 @@
     "tuong": "Đồng lòng",
     "tinh_chat": "Hợp tác",
     "ngu_hanh": "Kim - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi mọi người cùng chung mục tiêu và lý tưởng, sức mạnh tập thể sẽ được phát huy tối đa.",
+    "thoan_truyen": "Quẻ Đồng Nhân tượng trưng cho sự đoàn kết và hợp tác chân thành. Thành công đến từ khả năng kết nối con người bằng sự tin cậy và mục tiêu chung.",
+    "tuong_truyen": "Người quân tử biết tôn trọng sự khác biệt và xây dựng tinh thần cộng tác vì lợi ích chung.",
+    "hao": [
+      "Sơ Cửu: kết giao chân thành tạo nền tảng tốt đẹp.",
+      "Lục Nhị: hợp tác cần xuất phát từ sự tin cậy.",
+      "Cửu Tam: bè phái và thiên vị dễ gây chia rẽ.",
+      "Cửu Tứ: vượt qua khác biệt để hướng tới mục tiêu chung.",
+      "Cửu Ngũ: lãnh đạo bằng sự công tâm tạo nên đoàn kết.",
+      "Thượng Cửu: kết nối bền vững dựa trên giá trị lâu dài.",
+      "Ý nghĩa chung: đoàn kết chân thành tạo nên sức mạnh lớn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
