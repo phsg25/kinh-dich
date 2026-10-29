@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 10,
     "ten": "Thiên Trạch Lý",
     "han": "履",
-    "tuong": "Bước đi",
-    "tinh_chat": "Thận trọng",
+    "tuong": "Bước đi đúng đắn",
+    "tinh_chat": "Cẩn trọng",
     "ngu_hanh": "Kim - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Muốn tiến xa cần biết giữ lễ nghĩa, cư xử đúng mực và hành động thận trọng trong từng bước đi.",
+    "thoan_truyen": "Quẻ Lý tượng trưng cho cách ứng xử phù hợp với hoàn cảnh và vị thế của mình. Khi biết tôn trọng nguyên tắc, giữ sự khiêm nhường và hành động đúng đắn, con người sẽ tránh được nhiều rủi ro không cần thiết.",
+    "tuong_truyen": "Người quân tử dùng lễ nghi và đạo đức để điều chỉnh hành vi, từ đó xây dựng sự ổn định và lòng tin trong các mối quan hệ.",
+    "hao": [
+      "Sơ Cửu: khởi đầu bằng thái độ chân thành và đúng mực.",
+      "Cửu Nhị: giữ sự ngay thẳng giúp con đường phía trước thuận lợi.",
+      "Lục Tam: tự cao hoặc thiếu thận trọng dễ dẫn đến sai lầm.",
+      "Cửu Tứ: biết dè dặt và cân nhắc trước khi hành động.",
+      "Cửu Ngũ: giữ vai trò lãnh đạo bằng đạo đức và trách nhiệm.",
+      "Thượng Cửu: thành công lâu dài nhờ luôn giữ được chuẩn mực.",
+      "Ý nghĩa chung: lễ nghĩa và sự cẩn trọng giúp tạo nền tảng vững chắc cho mọi bước tiến."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
