@@ -38,5 +38,15 @@
   "id": 8,
   "file": "008-ty.json",
   "ten": "Thủy Địa Tỷ"
+},
+{
+  "id": 9,
+  "file": "009-tieu-suc.json",
+  "ten": "Phong Thiên Tiểu Súc"
+},
+{
+  "id": 10,
+  "file": "010-ly.json",
+  "ten": "Thiên Trạch Lý"
 }
 ]
