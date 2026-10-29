@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 29,
     "ten": "Thuần Khảm",
     "han": "坎",
     "tuong": "Nước",
-    "tinh_chat": "Hiểm trở",
+    "tinh_chat": "Kiên cường",
     "ngu_hanh": "Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Trong hoàn cảnh nhiều thử thách, sự kiên trì và bình tĩnh sẽ giúp con người tìm được lối đi.",
+    "thoan_truyen": "Quẻ Khảm tượng trưng cho hiểm trở và những thử thách lặp đi lặp lại. Giá trị của quẻ nằm ở khả năng thích nghi và không từ bỏ trước khó khăn.",
+    "tuong_truyen": "Người quân tử lấy sự bền bỉ và thận trọng để vượt qua nghịch cảnh.",
+    "hao": [
+      "Sơ Lục: nhận thức rõ nguy cơ để tránh mắc sai lầm.",
+      "Cửu Nhị: giữ bình tĩnh trong hoàn cảnh khó khăn.",
+      "Lục Tam: hành động thiếu cân nhắc dễ làm tăng rủi ro.",
+      "Lục Tứ: tìm kiếm hỗ trợ khi cần thiết.",
+      "Cửu Ngũ: kiên định giúp vượt qua thử thách lớn.",
+      "Thượng Lục: mất phương hướng sẽ kéo dài khó khăn.",
+      "Ý nghĩa chung: nghị lực là chìa khóa để vượt hiểm."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
