@@ -123,5 +123,30 @@
   "id": 25,
   "file": "025-vo-vong.json",
   "ten": "Thiên Lôi Vô Vọng"
+},
+{
+  "id": 26,
+  "file": "026-dai-suc.json",
+  "ten": "Sơn Thiên Đại Súc"
+},
+{
+  "id": 27,
+  "file": "027-di.json",
+  "ten": "Sơn Lôi Di"
+},
+{
+  "id": 28,
+  "file": "028-dai-qua.json",
+  "ten": "Trạch Phong Đại Quá"
+},
+{
+  "id": 29,
+  "file": "029-thuan-kham.json",
+  "ten": "Thuần Khảm"
+},
+{
+  "id": 30,
+  "file": "030-thuan-ly.json",
+  "ten": "Thuần Ly"
 }
 ]
