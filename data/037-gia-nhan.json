@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 37,
     "ten": "Phong Hỏa Gia Nhân",
     "han": "家人",
     "tuong": "Gia đình",
-    "tinh_chat": "Trật tự",
+    "tinh_chat": "Trách nhiệm",
     "ngu_hanh": "Mộc - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Một tập thể bền vững được xây dựng từ trách nhiệm, sự tôn trọng và vai trò rõ ràng của từng thành viên.",
+    "thoan_truyen": "Quẻ Gia Nhân tượng trưng cho việc xây dựng trật tự và hòa khí trong gia đình hoặc tổ chức. Khi mỗi người hoàn thành tốt trách nhiệm của mình, tập thể sẽ phát triển ổn định.",
+    "tuong_truyen": "Người quân tử lấy sự chân thành và trách nhiệm để vun đắp các mối quan hệ lâu dài.",
+    "hao": [
+      "Sơ Cửu: xây dựng nền nếp tốt ngay từ đầu.",
+      "Lục Nhị: sự chăm sóc chân thành tạo nên gắn kết.",
+      "Cửu Tam: kỷ luật cần đi cùng sự thấu hiểu.",
+      "Lục Tứ: biết quan tâm giúp duy trì hòa hợp.",
+      "Cửu Ngũ: lãnh đạo bằng đức hạnh tạo sự tín nhiệm.",
+      "Thượng Cửu: giữ trọn trách nhiệm giúp tập thể phát triển bền vững.",
+      "Ý nghĩa chung: trách nhiệm là nền tảng của sự gắn kết lâu dài."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
