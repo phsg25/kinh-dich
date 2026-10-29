@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 55,
     "ten": "Lôi Hỏa Phong",
     "han": "豐",
     "tuong": "Thịnh lớn",
-    "tinh_chat": "Phồn thịnh",
+    "tinh_chat": "Rực rỡ",
     "ngu_hanh": "Mộc - Hỏa",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Thời kỳ phát triển mạnh mẽ cần đi cùng sự tỉnh táo để duy trì thành quả lâu dài.",
+    "thoan_truyen": "Quẻ Phong tượng trưng cho giai đoạn hưng thịnh và đạt được nhiều thành tựu. Khi ở đỉnh cao, điều quan trọng là giữ sự sáng suốt và tránh tự mãn.",
+    "tuong_truyen": "Người quân tử sử dụng thành công để tạo giá trị cho cộng đồng và chuẩn bị cho những thay đổi trong tương lai.",
+    "hao": [
+      "Sơ Cửu: cơ hội phát triển xuất hiện rõ ràng.",
+      "Lục Nhị: giữ sự cân bằng giữa thành công và khiêm tốn.",
+      "Cửu Tam: ánh hào quang không nên che mờ thực tế.",
+      "Cửu Tứ: tiếp tục hoàn thiện dù đã đạt thành tựu.",
+      "Lục Ngũ: dùng ảnh hưởng của mình để tạo lợi ích chung.",
+      "Thượng Lục: tự mãn có thể dẫn đến suy giảm.",
+      "Ý nghĩa chung: duy trì thành công khó hơn đạt được thành công."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
