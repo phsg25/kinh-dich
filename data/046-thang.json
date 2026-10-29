@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 46,
     "ten": "Địa Phong Thăng",
@@ -8,11 +8,19 @@
     "tuong": "Đi lên",
     "tinh_chat": "Tiến bộ",
     "ngu_hanh": "Thổ - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự tiến bộ bền vững được xây dựng từ nỗ lực liên tục và từng bước vươn lên.",
+    "thoan_truyen": "Quẻ Thăng tượng trưng cho quá trình phát triển từng bước và tích lũy thành quả theo thời gian. Thành công đến với những người biết kiên trì và giữ vững hướng đi đúng đắn.",
+    "tuong_truyen": "Người quân tử không ngừng học hỏi và rèn luyện để từng bước nâng cao năng lực của mình.",
+    "hao": [
+      "Sơ Lục: bắt đầu từ những việc nhỏ nhưng đúng hướng.",
+      "Cửu Nhị: sự chân thành giúp nhận được sự hỗ trợ.",
+      "Cửu Tam: cơ hội phát triển xuất hiện khi đã chuẩn bị đầy đủ.",
+      "Lục Tứ: tiến lên bằng sự ổn định và thận trọng.",
+      "Lục Ngũ: giữ được khiêm tốn trong lúc thành công.",
+      "Thượng Lục: tiếp tục hoàn thiện bản thân để tiến xa hơn.",
+      "Ý nghĩa chung: thành công là kết quả của quá trình nỗ lực bền bỉ."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
