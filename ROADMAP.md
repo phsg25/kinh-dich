@@ -48,14 +48,21 @@ https://github.com/phsg25/kinh-dich
 
 ## Trạng thái hiện tại
 
-KINH DỊCH
+☯ KINH DỊCH
 
----
+## Checkpoint Beta 0.9
 
-Checkpoint Beta 0.9
-
-✅ 20 quẻ đầu tiên
-✅ Tra cứu
+Module:
 ✅ Dẫn nhập
 ✅ Bát quái
 ✅ Quẻ Dịch
+✅ Tra cứu
+
+Dữ liệu:
+✅ 20 / 64 quẻ
+
+Hạ tầng:
+✅ GitHub Pages
+✅ Dynamic JSON
+✅ Tìm kiếm cơ bản
+✅ Roadmap
