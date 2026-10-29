@@ -9,7 +9,7 @@
 
 ✅ index.json
 
-✅ 001 -> 030 Quẻ Dịch
+✅ 001 -> 035 Quẻ Dịch
 
 
 ## Chuẩn dữ liệu
@@ -59,7 +59,7 @@ https://github.com/phsg25/kinh-dich
 
 ## Checkpoint Beta 1.0
 
-✅ 30 quẻ đầu tiên
+✅ 35 quẻ đầu tiên
 ✅ Dẫn nhập
 ✅ Bát quái
 ✅ Quẻ Dịch
