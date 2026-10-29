@@ -1,10 +1,83 @@
 {
   "loai": "bat_quai",
+
   "nguon": "thu_vien_kinh_dich",
+
   "du_lieu": {
+
     "title": "Bát Quái",
-    "quai": []
+
+    "quai": [
+
+      {
+        "ten": "Càn",
+        "ky_hieu": "☰",
+        "tuong": "Trời",
+        "tinh_chat": "Kiện",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Khôn",
+        "ky_hieu": "☷",
+        "tuong": "Đất",
+        "tinh_chat": "Thuận",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Chấn",
+        "ky_hieu": "☳",
+        "tuong": "Sấm",
+        "tinh_chat": "Động",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Tốn",
+        "ky_hieu": "☴",
+        "tuong": "Gió",
+        "tinh_chat": "Thuận nhập",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Khảm",
+        "ky_hieu": "☵",
+        "tuong": "Nước",
+        "tinh_chat": "Hiểm",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Ly",
+        "ky_hieu": "☲",
+        "tuong": "Lửa",
+        "tinh_chat": "Sáng",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Cấn",
+        "ky_hieu": "☶",
+        "tuong": "Núi",
+        "tinh_chat": "Dừng",
+        "ghi_chu": "chưa cập nhật"
+      },
+
+      {
+        "ten": "Đoài",
+        "ky_hieu": "☱",
+        "tuong": "Đầm",
+        "tinh_chat": "Vui",
+        "ghi_chu": "chưa cập nhật"
+      }
+
+    ]
+
   },
+
   "ghi_chu": "chưa cập nhật",
+
   "phien_ban": "1.0"
 }
