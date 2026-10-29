@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 14,
     "ten": "Hỏa Thiên Đại Hữu",
@@ -8,11 +8,19 @@
     "tuong": "Sở hữu lớn",
     "tinh_chat": "Thịnh vượng",
     "ngu_hanh": "Hỏa - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sự giàu có và thành công cần được quản lý bằng đức độ và trách nhiệm.",
+    "thoan_truyen": "Quẻ Đại Hữu tượng trưng cho sự sung túc về vật chất hoặc tinh thần. Điều quan trọng không phải là sở hữu nhiều mà là biết sử dụng những gì mình có một cách đúng đắn.",
+    "tuong_truyen": "Người quân tử dùng sự thịnh vượng để tạo lợi ích cho cộng đồng thay vì chỉ phục vụ lợi ích riêng.",
+    "hao": [
+      "Sơ Cửu: thành công ban đầu cần đi cùng sự khiêm tốn.",
+      "Cửu Nhị: biết chia sẻ nguồn lực tạo thêm giá trị.",
+      "Cửu Tam: năng lực lớn đi kèm trách nhiệm lớn.",
+      "Cửu Tứ: tránh tự mãn khi đạt thành tựu.",
+      "Lục Ngũ: dùng đức độ để duy trì sự thịnh vượng.",
+      "Thượng Cửu: phúc lớn đến từ cách sử dụng thành quả đúng đắn.",
+      "Ý nghĩa chung: thành công bền vững cần đi cùng trách nhiệm."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
