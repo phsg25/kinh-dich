@@ -57,6 +57,56 @@ https://github.com/phsg25/kinh-dich
 ## Trạng thái hiện tại
 
 KINH DỊCH
+
 Beta 0.7
 
-✅ Quẻ 004 Mông
+### Hoàn thành
+
+✅ Github Pages
+
+✅ Website live
+
+✅ index.html
+
+✅ style.css
+
+✅ app.js
+
+✅ Dynamic JSON loading
+
+✅ Schema dữ liệu chuẩn hóa
+
+✅ Dẫn nhập hoạt động
+
+✅ Bát quái hoạt động
+
+✅ Quẻ Dịch hoạt động
+
+✅ Danh sách Quẻ Dịch hoạt động
+
+✅ 001 Thuần Càn
+
+✅ 002 Thuần Khôn
+
+✅ 003 Thủy Lôi Truân
+
+✅ 004 Sơn Thủy Mông
+
+### Việc tiếp theo
+
+1. Tạo 005 Nhu
+2. Tạo 006 Tụng
+3. Tạo 007 Sư
+4. Tạo 008 Tỷ
+5. Hoàn thiện module Tra cứu
+6. Loại bỏ menu test khi có khoảng 10 quẻ
+
+### Kiến trúc hiện tại
+
+📚 Dẫn nhập ✅
+
+☰ Bát quái ✅
+
+📖 Quẻ Dịch ✅
+
+🔍 Tra cứu ⏳
