@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 41,
+    "ten": "Sơn Trạch Tổn",
+    "han": "損",
+    "tuong": "Giảm bớt",
+    "tinh_chat": "Hy sinh",
+    "ngu_hanh": "Thổ - Kim",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
