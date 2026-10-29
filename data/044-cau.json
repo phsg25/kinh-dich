@@ -1,6 +1,6 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 44,
     "ten": "Thiên Phong Cấu",
@@ -8,11 +8,19 @@
     "tuong": "Gặp gỡ",
     "tinh_chat": "Tiếp xúc",
     "ngu_hanh": "Kim - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Mỗi cuộc gặp gỡ đều mang đến cơ hội và thử thách, vì vậy cần tỉnh táo trong lựa chọn và kết nối.",
+    "thoan_truyen": "Quẻ Cấu tượng trưng cho sự gặp gỡ bất ngờ giữa những yếu tố khác nhau. Điều quan trọng là nhận biết giá trị thực sự của cơ hội trước khi đưa ra quyết định.",
+    "tuong_truyen": "Người quân tử giữ sự tỉnh táo và nguyên tắc trong các mối quan hệ mới.",
+    "hao": [
+      "Sơ Lục: tiếp cận cơ hội mới bằng sự thận trọng.",
+      "Cửu Nhị: giữ đúng nguyên tắc khi hợp tác với người khác.",
+      "Cửu Tam: hấp tấp dễ dẫn đến lựa chọn sai lầm.",
+      "Cửu Tứ: cân nhắc kỹ trước khi cam kết lâu dài.",
+      "Cửu Ngũ: dùng trí tuệ để nhận diện cơ hội thực sự.",
+      "Thượng Cửu: giữ khoảng cách phù hợp giúp tránh rủi ro.",
+      "Ý nghĩa chung: không phải mọi cơ hội xuất hiện đều nên nắm bắt."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
