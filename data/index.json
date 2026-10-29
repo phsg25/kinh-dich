@@ -198,6 +198,31 @@
   "id": 40,
   "file": "040-giai.json",
   "ten": "Lôi Thủy Giải"
+},
+{
+  "id": 41,
+  "file": "041-ton.json",
+  "ten": "Sơn Trạch Tổn"
+},
+{
+  "id": 42,
+  "file": "042-ich.json",
+  "ten": "Phong Lôi Ích"
+},
+{
+  "id": 43,
+  "file": "043-quai.json",
+  "ten": "Trạch Thiên Quải"
+},
+{
+  "id": 44,
+  "file": "044-cau.json",
+  "ten": "Thiên Phong Cấu"
+},
+{
+  "id": 45,
+  "file": "045-tuy.json",
+  "ten": "Trạch Địa Tụy"
 }
   
 ]
