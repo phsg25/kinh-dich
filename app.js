@@ -69,6 +69,56 @@ async function loadQue(file) {
   `;
 }
 
+async function loadBatQuai() {
+
+  const response =
+    await fetch("./data/bat-quai.json");
+
+  const data =
+    await response.json();
+
+  let html = `
+    <div class="card">
+
+      <h2>
+        ${data.du_lieu.title}
+      </h2>
+  `;
+
+  data.du_lieu.quai.forEach(quai => {
+
+    html += `
+      <div style="
+        margin-bottom:16px;
+        padding:12px;
+        border:1px solid #ddd;
+        border-radius:8px;">
+
+        <h3>
+          ${quai.ky_hieu}
+          ${quai.ten}
+        </h3>
+
+        <p>
+          Tượng:
+          ${quai.tuong}
+        </p>
+
+        <p>
+          Tính chất:
+          ${quai.tinh_chat}
+        </p>
+
+      </div>
+    `;
+  });
+
+  html += `</div>`;
+
+  document.getElementById("content")
+    .innerHTML = html;
+}
+
 async function loadDanNhap() {
 
   const response =
