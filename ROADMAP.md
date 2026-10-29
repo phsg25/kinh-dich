@@ -88,13 +88,40 @@ https://github.com/phsg25/kinh-dich
 ## Trạng thái hiện tại
 
 KINH DỊCH
+## Checkpoint Beta 0.6
 
-version Beta 0.6
+Hoàn thành
+
+✅ Github Pages
+
+✅ Website live
+
+✅ Dynamic JSON loading
+
+✅ Dynamic menu
 
 ✅ Dẫn nhập hoạt động
+
 ✅ Bát quái hoạt động
-✅ 64 quẻ hoạt động
+
+✅ 001-kien.json
+
+✅ 002-khon.json
+
+✅ 003-truan.json
+
+✅ Schema dữ liệu chuẩn hóa
 
 ✅ ROADMAP.md
 
-✅ Đã sửa lỗi undefined
+Việc tiếp theo
+
+1. Hoàn thiện module 64 Quẻ
+2. Tạo trang danh sách quẻ chính thức
+3. Tạo Quẻ 004 Mông
+4. Tiếp tục nhập dữ liệu các quẻ
+5. Thiết kế module Tra cứu
+
+Phiên bản hiện tại
+
+Beta 0.6
