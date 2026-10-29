@@ -48,5 +48,30 @@
   "id": 10,
   "file": "010-ly.json",
   "ten": "Thiên Trạch Lý"
+},
+{
+  "id": 11,
+  "file": "011-thai.json",
+  "ten": "Địa Thiên Thái"
+},
+{
+  "id": 12,
+  "file": "012-bi.json",
+  "ten": "Thiên Địa Bĩ"
+},
+{
+  "id": 13,
+  "file": "013-dong-nhan.json",
+  "ten": "Thiên Hỏa Đồng Nhân"
+},
+{
+  "id": 14,
+  "file": "014-dai-huu.json",
+  "ten": "Hỏa Thiên Đại Hữu"
+},
+{
+  "id": 15,
+  "file": "015-khiem.json",
+  "ten": "Địa Sơn Khiêm"
 }
 ]
