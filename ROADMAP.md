@@ -1,11 +1,5 @@
 # KINH DỊCH - Trạng thái dự án
 
-## Đã hoàn thành
-
-- Github Pages hoạt động
-- index.html
-- style.css
-- app.js
 
 ## Dữ liệu
 
@@ -50,6 +44,7 @@ Repo:
 https://phsg25.github.io/kinh-dich/
 
 Đọc ROADMAP.md và tiếp tục dự án từ trạng thái hiện tại.
+
 ## Repo Github
 
 https://github.com/phsg25/kinh-dich
@@ -58,25 +53,11 @@ https://github.com/phsg25/kinh-dich
 
 KINH DỊCH
 
-Beta 0.7
+---
+
+## Checkpoint Beta 0.8
 
 ### Hoàn thành
-
-✅ Github Pages
-
-✅ Website live
-
-✅ index.html
-
-✅ style.css
-
-✅ app.js
-
-✅ Dynamic JSON loading
-
-✅ Dynamic menu
-
-✅ Schema dữ liệu chuẩn hóa
 
 ✅ Dẫn nhập hoạt động
 
@@ -86,6 +67,8 @@ Beta 0.7
 
 ✅ Danh sách Quẻ Dịch hoạt động
 
+✅ Tra cứu cơ bản hoạt động
+
 ✅ 001 Thuần Càn
 
 ✅ 002 Thuần Khôn
@@ -93,6 +76,18 @@ Beta 0.7
 ✅ 003 Thủy Lôi Truân
 
 ✅ 004 Sơn Thủy Mông
+
+✅ 005 Thủy Thiên Nhu
+
+✅ 006 Thiên Thủy Tụng
+
+✅ 007 Địa Thủy Sư
+
+✅ 008 Thủy Địa Tỷ
+
+✅ 009 Phong Thiên Tiểu Súc
+
+✅ 010 Thiên Trạch Lý
 
 ### Kiến trúc hiện tại
 
@@ -102,21 +97,19 @@ Beta 0.7
 
 📖 Quẻ Dịch ✅
 
-🔍 Tra cứu ⏳
+🔍 Tra cứu ✅
 
 ### Việc tiếp theo
 
-1. Tạo 005 Nhu
-2. Tạo 006 Tụng
-3. Tạo 007 Sư
-4. Tạo 008 Tỷ
-5. Hoàn thiện module Tra cứu
-6. Loại bỏ menu test khi có khoảng 10 quẻ
+1. Tạo 011 Thái
+2. Tạo 012 Bĩ
+3. Tạo 013 Đồng Nhân
+4. Tạo 014 Đại Hữu
+5. Tạo 015 Khiêm
+6. Đánh giá loại bỏ menu test
 
 ### Ghi chú
 
-Hiện vẫn giữ menu quẻ phía dưới
-(Thuần Càn, Thuần Khôn, Thủy Lôi Truân, Sơn Thủy Mông)
-để phục vụ thử nghiệm.
+Tra cứu hiện hỗ trợ tìm theo tên quẻ.
 
-Sẽ loại bỏ khi số lượng quẻ đạt khoảng 10 quẻ trở lên.
+Menu test phía dưới vẫn được giữ để phục vụ phát triển và kiểm thử.
