@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 28,
     "ten": "Trạch Phong Đại Quá",
     "han": "大過",
-    "tuong": "Quá mức",
+    "tuong": "Vượt mức",
     "tinh_chat": "Gánh vác",
     "ngu_hanh": "Kim - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi trách nhiệm vượt quá bình thường, cần bản lĩnh và sự cân bằng để không bị quá tải.",
+    "thoan_truyen": "Quẻ Đại Quá tượng trưng cho thời kỳ phải đảm nhận trọng trách lớn hoặc đối mặt với áp lực vượt mức thông thường. Thành công đòi hỏi sự kiên định và khả năng thích nghi.",
+    "tuong_truyen": "Người quân tử giữ vững nguyên tắc và tinh thần trách nhiệm ngay cả trong hoàn cảnh khó khăn.",
+    "hao": [
+      "Sơ Lục: chuẩn bị kỹ giúp giảm áp lực về sau.",
+      "Cửu Nhị: giữ cân bằng trong lúc đảm nhận trách nhiệm lớn.",
+      "Cửu Tam: gánh vác quá sức dễ dẫn đến mệt mỏi và sai sót.",
+      "Cửu Tứ: linh hoạt giúp vượt qua thách thức.",
+      "Cửu Ngũ: dùng kinh nghiệm để ổn định tình hình.",
+      "Thượng Lục: biết dừng đúng lúc để tránh kiệt sức.",
+      "Ý nghĩa chung: sức mạnh cần đi cùng sự cân bằng."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
