@@ -63,8 +63,5 @@ https://github.com/phsg25/kinh-dich
 ✅ Dẫn nhập
 ✅ Bát quái
 ✅ Quẻ Dịch
-✅ Tra cứu
-
-Tiến độ dữ liệu:
-40 / 64 quẻ
-62.5%
+✅ Tra cứu V2
+✅ 40/64 quẻ
