@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 7,
     "ten": "Địa Thủy Sư",
     "han": "師",
-    "tuong": "Quân đội",
-    "tinh_chat": "Kỷ luật",
+    "tuong": "Đạo quân",
+    "tinh_chat": "Tổ chức",
     "ngu_hanh": "Thổ - Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Muốn hoàn thành việc lớn cần có tổ chức, kỷ luật và người dẫn dắt đáng tin cậy.",
+    "thoan_truyen": "Quẻ Sư tượng trưng cho sức mạnh tập thể được điều phối đúng cách. Thành công đến từ kỷ luật, trách nhiệm và khả năng quy tụ nhiều người vào cùng một mục tiêu.",
+    "tuong_truyen": "Người quân tử biết xây dựng trật tự, dùng năng lực quản lý để tập hợp nguồn lực và duy trì sự ổn định lâu dài.",
+    "hao": [
+      "Sơ Lục: ngay từ đầu phải thiết lập kỷ luật rõ ràng.",
+      "Cửu Nhị: người lãnh đạo cần công bằng và được mọi người tín nhiệm.",
+      "Lục Tam: thiếu phối hợp dễ dẫn đến thất bại.",
+      "Lục Tứ: biết dừng đúng lúc sẽ giảm tổn thất.",
+      "Lục Ngũ: sử dụng nhân tài đúng vị trí giúp tập thể phát triển.",
+      "Thượng Lục: sau thành công cần giữ sự khiêm tốn và ổn định.",
+      "Ý nghĩa chung: sức mạnh tập thể chỉ phát huy khi có tổ chức và kỷ luật."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
