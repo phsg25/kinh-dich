@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 12,
     "ten": "Thiên Địa Bĩ",
     "han": "否",
     "tuong": "Bế tắc",
-    "tinh_chat": "Trì trệ",
+    "tinh_chat": "Kiên định",
     "ngu_hanh": "Kim - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi hoàn cảnh không thuận lợi, điều quan trọng là giữ vững nguyên tắc và chờ thời cơ thích hợp.",
+    "thoan_truyen": "Quẻ Bĩ tượng trưng cho giai đoạn bế tắc khi các yếu tố tích cực và tiêu cực không còn hòa hợp. Đây là thời kỳ cần giữ vững phẩm chất và tránh những hành động nóng vội.",
+    "tuong_truyen": "Người quân tử giữ đạo đức và lập trường đúng đắn ngay cả khi môi trường xung quanh không thuận lợi.",
+    "hao": [
+      "Sơ Lục: khó khăn ban đầu cần được nhận diện sớm.",
+      "Lục Nhị: giữ chính đạo sẽ vượt qua nghịch cảnh.",
+      "Lục Tam: hành động sai lệch dễ làm tình hình tồi tệ hơn.",
+      "Cửu Tứ: xuất hiện cơ hội cải thiện hoàn cảnh.",
+      "Cửu Ngũ: kiên định giúp tạo bước chuyển biến tích cực.",
+      "Thượng Cửu: thời kỳ bế tắc dần kết thúc.",
+      "Ý nghĩa chung: giữ vững giá trị cốt lõi trong lúc khó khăn."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
