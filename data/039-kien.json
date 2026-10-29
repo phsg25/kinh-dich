@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 39,
     "ten": "Thủy Sơn Kiển",
     "han": "蹇",
-    "tuong": "Khó khăn",
+    "tuong": "Trở ngại",
     "tinh_chat": "Kiên trì",
     "ngu_hanh": "Thủy - Thổ",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khi gặp khó khăn, điều quan trọng là giữ vững tinh thần và tìm hướng đi phù hợp thay vì cố gắng tiến bằng mọi giá.",
+    "thoan_truyen": "Quẻ Kiển tượng trưng cho những trở ngại trên con đường phát triển. Sự khôn ngoan nằm ở việc nhận diện khó khăn đúng cách và tìm giải pháp thích hợp.",
+    "tuong_truyen": "Người quân tử dùng sự kiên trì và tự nhìn lại để vượt qua thử thách.",
+    "hao": [
+      "Sơ Lục: nhận biết trở ngại từ sớm giúp hạn chế rủi ro.",
+      "Lục Nhị: tìm kiếm sự hỗ trợ khi cần thiết.",
+      "Cửu Tam: hành động đơn độc dễ làm tăng khó khăn.",
+      "Lục Tứ: linh hoạt giúp tìm ra lối đi mới.",
+      "Cửu Ngũ: giữ vững mục tiêu trong khi điều chỉnh phương pháp.",
+      "Thượng Lục: vượt khó thành công nhờ kinh nghiệm tích lũy.",
+      "Ý nghĩa chung: thử thách là cơ hội để trưởng thành."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
