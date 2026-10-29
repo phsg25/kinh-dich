@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 26,
     "ten": "Sơn Thiên Đại Súc",
     "han": "大畜",
     "tuong": "Tích lũy lớn",
-    "tinh_chat": "Nuôi dưỡng",
+    "tinh_chat": "Tự chủ",
     "ngu_hanh": "Thổ - Kim",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sức mạnh thực sự đến từ quá trình tích lũy kiến thức, kinh nghiệm và khả năng tự kiểm soát bản thân.",
+    "thoan_truyen": "Quẻ Đại Súc tượng trưng cho việc tích lũy nguồn lực và phát triển nội lực. Khi biết kiên trì rèn luyện và chuẩn bị lâu dài, con người sẽ có đủ khả năng đảm nhận trách nhiệm lớn hơn.",
+    "tuong_truyen": "Người quân tử không ngừng học hỏi và hoàn thiện bản thân để tạo nền tảng vững chắc cho tương lai.",
+    "hao": [
+      "Sơ Cửu: cần học cách kiềm chế những hành động nóng vội.",
+      "Cửu Nhị: tích lũy từng bước tạo nên sự tiến bộ bền vững.",
+      "Cửu Tam: nỗ lực lâu dài giúp mở rộng năng lực.",
+      "Lục Tứ: biết giữ kỷ luật sẽ hạn chế được sai lầm.",
+      "Lục Ngũ: dùng trí tuệ để quản lý nguồn lực đã tích lũy.",
+      "Thượng Cửu: thành quả lớn đến từ sự bền bỉ và tự chủ.",
+      "Ý nghĩa chung: tích lũy hôm nay là nền tảng cho thành công ngày mai."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
