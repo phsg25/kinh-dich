@@ -126,3 +126,21 @@ Các Hào
   "ghi_chu": "",
   "phien_ban": "2.0"
 }
+
+
+# Việc tiếp theo
+⏳ Quẻ 003 - Thủy Lôi Truân
+
+⏳ Quẻ 004 - Sơn Thủy Mông
+
+⏳ Quẻ 005 - Thủy Thiên Nhu
+
+⏳ Quẻ 006 - Thiên Thủy Tụng
+
+⏳ Quẻ 007 - Địa Thủy Sư
+
+⏳ Quẻ 008 - Thủy Địa Tỷ
+
+⏳ Quẻ 009 - Phong Thiên Tiểu Súc
+
+⏳ Quẻ 010 - Thiên Trạch Lý
