@@ -47,13 +47,15 @@ async function loadQue(file) {
       </h2>
 
       <p>
-        <strong>${q.han}</strong>
-      </p>
+  <strong>${q.han}</strong>
+</p>
 
-      <p>
-        Tượng:
-        ${q.tuong}
-      </p>
+<hr>
+
+<p>
+  Tượng: ${q.tuong}
+</p>
+
 
       <p>
         Tính chất:
