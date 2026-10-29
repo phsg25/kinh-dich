@@ -52,61 +52,10 @@ KINH DỊCH
 
 ---
 
-## Checkpoint Beta 0.8
+Checkpoint Beta 0.9
 
-### Hoàn thành
-
-✅ Dẫn nhập hoạt động
-
-✅ Bát quái hoạt động
-
-✅ Quẻ Dịch hoạt động
-
-✅ Danh sách Quẻ Dịch hoạt động
-
-✅ Tra cứu cơ bản hoạt động
-
-✅ 001 Thuần Càn
-
-✅ 002 Thuần Khôn
-
-✅ 003 Thủy Lôi Truân
-
-✅ 004 Sơn Thủy Mông
-
-✅ 005 Thủy Thiên Nhu
-
-✅ 006 Thiên Thủy Tụng
-
-✅ 007 Địa Thủy Sư
-
-✅ 008 Thủy Địa Tỷ
-
-✅ 009 Phong Thiên Tiểu Súc
-
-✅ 010 Thiên Trạch Lý
-
-### Kiến trúc hiện tại
-
-📚 Dẫn nhập ✅
-
-☰ Bát quái ✅
-
-📖 Quẻ Dịch ✅
-
-🔍 Tra cứu ✅
-
-### Việc tiếp theo
-
-1. Tạo 011 Thái
-2. Tạo 012 Bĩ
-3. Tạo 013 Đồng Nhân
-4. Tạo 014 Đại Hữu
-5. Tạo 015 Khiêm
-6. Đánh giá loại bỏ menu test
-
-### Ghi chú
-
-Tra cứu hiện hỗ trợ tìm theo tên quẻ.
-
-Menu test phía dưới vẫn được giữ để phục vụ phát triển và kiểm thử.
+✅ 20 quẻ đầu tiên
+✅ Tra cứu
+✅ Dẫn nhập
+✅ Bát quái
+✅ Quẻ Dịch
