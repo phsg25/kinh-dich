@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 59,
     "ten": "Phong Thủy Hoán",
     "han": "渙",
-    "tuong": "Tan rã",
-    "tinh_chat": "Phân tán rồi hội tụ",
+    "tuong": "Tan rã rồi tái hợp",
+    "tinh_chat": "Khai thông",
     "ngu_hanh": "Mộc - Thủy",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Những trở ngại trong lòng người cần được tháo gỡ để tạo nên sự kết nối và đồng thuận mới.",
+    "thoan_truyen": "Quẻ Hoán tượng trưng cho quá trình giải tỏa những khoảng cách, hiểu lầm hoặc sự trì trệ. Sau khi được khai thông, năng lượng tích cực sẽ lưu chuyển trở lại.",
+    "tuong_truyen": "Người quân tử chủ động kết nối và hóa giải những điều gây chia cách giữa mọi người.",
+    "hao": [
+      "Sơ Lục: bắt đầu tháo gỡ những vướng mắc nhỏ.",
+      "Cửu Nhị: chân thành giúp giảm bớt khoảng cách.",
+      "Lục Tam: cố chấp dễ làm mâu thuẫn kéo dài.",
+      "Lục Tứ: chủ động hòa giải tạo kết quả tích cực.",
+      "Cửu Ngũ: quy tụ mọi người bằng mục tiêu chung.",
+      "Thượng Cửu: giải quyết tận gốc giúp ổn định lâu dài.",
+      "Ý nghĩa chung: khai thông là bước đầu của phát triển."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
