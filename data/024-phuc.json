@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 24,
     "ten": "Địa Lôi Phục",
     "han": "復",
     "tuong": "Trở lại",
-    "tinh_chat": "Khôi phục",
+    "tinh_chat": "Phục hồi",
     "ngu_hanh": "Thổ - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Sau thời kỳ khó khăn, sự hồi phục bắt đầu từ những bước nhỏ nhưng đúng hướng.",
+    "thoan_truyen": "Quẻ Phục tượng trưng cho sự quay trở lại của điều tích cực sau giai đoạn suy giảm. Đây là thời điểm thích hợp để điều chỉnh, làm mới và bắt đầu lại.",
+    "tuong_truyen": "Người quân tử biết nhìn lại bản thân và quay về với những giá trị đúng đắn.",
+    "hao": [
+      "Sơ Cửu: trở lại con đường đúng từ rất sớm.",
+      "Lục Nhị: phục hồi bằng sự chân thành và khiêm tốn.",
+      "Lục Tam: còn do dự nhưng đã nhận ra hướng đi đúng.",
+      "Lục Tứ: kiên trì giúp quá trình hồi phục vững chắc hơn.",
+      "Lục Ngũ: giữ cân bằng trong giai đoạn phát triển trở lại.",
+      "Thượng Lục: bỏ lỡ cơ hội thay đổi sẽ kéo dài khó khăn.",
+      "Ý nghĩa chung: phục hồi bắt đầu từ việc sửa mình."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
