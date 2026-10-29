@@ -7,13 +7,10 @@
 
 ✅ bat-quai.json
 
-✅ 001-kien.json
-
-✅ 002-khon.json
-
-✅ 003-truan.json
-
 ✅ index.json
+
+✅ 001 -> 010
+
 
 ## Chuẩn dữ liệu
 
