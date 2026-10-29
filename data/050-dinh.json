@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 50,
+    "ten": "Hỏa Phong Đỉnh",
+    "han": "鼎",
+    "tuong": "Cái đỉnh",
+    "tinh_chat": "Thành tựu",
+    "ngu_hanh": "Hỏa - Mộc",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
