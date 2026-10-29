@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
     "id": 17,
     "ten": "Trạch Lôi Tùy",
     "han": "隨",
-    "tuong": "Theo thuận",
-    "tinh_chat": "Thích nghi",
+    "tuong": "Thuận theo",
+    "tinh_chat": "Thích ứng",
     "ngu_hanh": "Kim - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "quai_tu": "Biết thích ứng với hoàn cảnh và thuận theo điều đúng đắn sẽ mang lại kết quả tốt đẹp.",
+    "thoan_truyen": "Quẻ Tùy tượng trưng cho khả năng linh hoạt trong hành động và suy nghĩ. Thuận theo ở đây không phải là phụ thuộc, mà là biết thích nghi với quy luật và thời thế.",
+    "tuong_truyen": "Người quân tử biết lắng nghe, học hỏi và điều chỉnh bản thân để hòa hợp với hoàn cảnh.",
+    "hao": [
+      "Sơ Cửu: bắt đầu bằng tinh thần cởi mở giúp tạo cơ hội mới.",
+      "Lục Nhị: lựa chọn đúng người để đồng hành.",
+      "Lục Tam: chạy theo điều sai lầm sẽ gặp trở ngại.",
+      "Cửu Tứ: linh hoạt nhưng vẫn giữ nguyên tắc.",
+      "Cửu Ngũ: theo đuổi điều thiện sẽ được mọi người ủng hộ.",
+      "Thượng Lục: trung thành với giá trị đúng đắn đến cuối cùng.",
+      "Ý nghĩa chung: thích nghi tốt giúp vượt qua nhiều thay đổi."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
