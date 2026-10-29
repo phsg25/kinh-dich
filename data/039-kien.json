@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 39,
+    "ten": "Thủy Sơn Kiển",
+    "han": "蹇",
+    "tuong": "Khó khăn",
+    "tinh_chat": "Kiên trì",
+    "ngu_hanh": "Thủy - Thổ",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
