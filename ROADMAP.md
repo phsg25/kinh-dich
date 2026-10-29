@@ -61,87 +61,68 @@ https://phsg25.github.io/kinh-dich/
 
 https://github.com/phsg25/kinh-dich
 
-# Checkpoint Beta 1.1
-
-## Hoàn thành
-
-✅ Dẫn nhập
-
-✅ Bát quái
-
-✅ Quẻ Dịch
-
-✅ Danh sách Quẻ Dịch
-
-✅ Tra cứu V2
-
-✅ 64 / 64 quẻ
-
-✅ Quẻ mẫu 001 nâng cấp nội dung
-
-✅ Hỗ trợ Quái Từ
-
-✅ Hỗ trợ Thoán Truyện
-
-✅ Hỗ trợ Tượng Truyện
-
-✅ Hỗ trợ Các Hào
-
-✅ Mobile UI ổn định
+# Checkpoint Beta 1.2
+# Hạ tầng
 
 ✅ Github Pages
 
 ✅ JSON động
 
----
+✅ app.js ổn định
 
-## Tiến độ dữ liệu
+✅ style.css ổn định
 
-64 / 64 quẻ
+✅ Mobile UI ổn định
 
-100%
+# Chức năng
 
----
+✅ Dẫn nhập
 
-## Kiến trúc hiện tại
+✅ Bát quái
 
-📚 Dẫn nhập ✅
+✅ Danh sách Quẻ Dịch
 
-☰ Bát quái ✅
+✅ Tra cứu V2
 
-📖 Quẻ Dịch ✅
+✅ Hiển thị nội dung mở rộng
 
-🔍 Tra cứu V2 ✅
+Dữ liệu
 
-📱 Mobile Friendly ✅
+✅ 64 / 64 quẻ
 
----
+✅ Kiểm tra điều hướng 64 quẻ
 
-## Nội dung mở rộng
+✅ Sửa lỗi các quẻ lỗi (014, 060, 062, 064)
 
-Đã hoàn thành:
+# Nội dung nâng cấp
 
-✅ Quẻ 001 Thuần Càn
+✅ Quẻ 001 - Thuần Càn
+
+✅ Quẻ 002 - Thuần Khôn
 
 Hỗ trợ:
 
-- Quái Từ
-- Thoán Truyện
-- Tượng Truyện
-- Các Hào
+Quái Từ
+Thoán Truyện
+Tượng Truyện
+Các Hào
 
-Schema hiện tại:
-
-```json
+# Schema hiện tại
 {
-  "id": 1,
-  "ten": "",
-  "han": "",
-  "tuong": "",
-  "tinh_chat": "",
-  "ngu_hanh": "",
-  "quai_tu": "",
-  "thoan_truyen": "",
-  "tuong_truyen": "",
-  "hao": []
+  "loai": "que",
+  "nguon": "",
+  "du_lieu": {
+    "id": 0,
+    "ten": "",
+    "han": "",
+    "tuong": "",
+    "tinh_chat": "",
+    "ngu_hanh": "",
+    "quai_tu": "",
+    "thoan_truyen": "",
+    "tuong_truyen": "",
+    "hao": []
+  },
+  "ghi_chu": "",
+  "phien_ban": "2.0"
 }
