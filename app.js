@@ -36,37 +36,107 @@ async function loadQue(file) {
   const data =
     await response.json();
 
-  const q = data.du_lieu;
+  const q =
+    data.du_lieu;
+
+  let html = `
+    <div class="card">
+
+      <h2>
+        Quẻ ${String(q.id).padStart(2, "0")}: ${q.ten}
+      </h2>
+
+      <p>
+        <strong>${q.han}</strong>
+      </p>
+
+      <p>
+        Tượng:
+        ${q.tuong}
+      </p>
+
+      <p>
+        Tính chất:
+        ${q.tinh_chat}
+      </p>
+
+      <p>
+        Ngũ hành:
+        ${q.ngu_hanh}
+      </p>
+  `;
+
+  if (
+    q.quai_tu &&
+    q.quai_tu !== "chưa cập nhật"
+  ) {
+
+    html += `
+      <h3>Quái Từ</h3>
+
+      <p>
+        ${q.quai_tu}
+      </p>
+    `;
+  }
+
+  if (
+    q.thoan_truyen &&
+    q.thoan_truyen !== "chưa cập nhật"
+  ) {
+
+    html += `
+      <h3>Thoán Truyện</h3>
+
+      <p>
+        ${q.thoan_truyen}
+      </p>
+    `;
+  }
+
+  if (
+    q.tuong_truyen &&
+    q.tuong_truyen !== "chưa cập nhật"
+  ) {
+
+    html += `
+      <h3>Tượng Truyện</h3>
+
+      <p>
+        ${q.tuong_truyen}
+      </p>
+    `;
+  }
+
+  if (
+    Array.isArray(q.hao) &&
+    q.hao.length > 0
+  ) {
+
+    html += `
+      <h3>Các Hào</h3>
+
+      <ul>
+    `;
+
+    q.hao.forEach(item => {
+
+      html += `
+        <li>${item}</li>
+      `;
+    });
+
+    html += `
+      </ul>
+    `;
+  }
+
+  html += `
+    </div>
+  `;
 
   document.getElementById("content")
-    .innerHTML = `
-      <div class="card">
-
-        <h2>
-          Quẻ ${q.id ?? "?"}: ${q.ten ?? "chưa cập nhật"}
-        </h2>
-
-        <p>
-          <strong>${q.han ?? "chưa cập nhật"}</strong>
-        </p>
-
-        <p>
-          Tượng:
-          ${q.tuong ?? "chưa cập nhật"}
-        </p>
-
-        <p>
-          Tính chất:
-          ${q.tinh_chat ?? "chưa cập nhật"}
-        </p>
-
-        <p>
-          Ngũ hành:
-          ${q.ngu_hanh ?? "chưa cập nhật"}
-        </p>
-
-      </div>
-  `;
+    .innerHTML = html;
 }
 
 async function loadBatQuai() {
