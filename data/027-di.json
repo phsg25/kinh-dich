@@ -1,0 +1,18 @@
+{
+  "loai": "que",
+  "nguon": "kinh_dich",
+  "du_lieu": {
+    "id": 27,
+    "ten": "Sơn Lôi Di",
+    "han": "頤",
+    "tuong": "Nuôi dưỡng",
+    "tinh_chat": "Dưỡng sinh",
+    "ngu_hanh": "Thổ - Mộc",
+    "quai_tu": "chưa cập nhật",
+    "thoan_truyen": "chưa cập nhật",
+    "tuong_truyen": "chưa cập nhật",
+    "hao": "chưa cập nhật"
+  },
+  "ghi_chu": "chưa cập nhật",
+  "phien_ban": "1.0"
+}
