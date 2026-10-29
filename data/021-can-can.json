@@ -1,18 +1,26 @@
 {
   "loai": "que",
-  "nguon": "kinh_dich",
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
-    "id": 21,
-    "ten": "Hỏa Lôi Cắn Cắn",
-    "han": "噬嗑",
-    "tuong": "Cắn hợp",
-    "tinh_chat": "Quyết đoán",
-    "ngu_hanh": "Hỏa - Mộc",
-    "quai_tu": "chưa cập nhật",
-    "thoan_truyen": "chưa cập nhật",
-    "tuong_truyen": "chưa cập nhật",
-    "hao": "chưa cập nhật"
+    "id": 20,
+    "ten": "Phong Địa Quán",
+    "han": "觀",
+    "tuong": "Quan sát",
+    "tinh_chat": "Chiêm nghiệm",
+    "ngu_hanh": "Mộc - Thổ",
+    "quai_tu": "Quan sát kỹ lưỡng trước khi hành động giúp đưa ra quyết định đúng đắn và hạn chế sai lầm.",
+    "thoan_truyen": "Quẻ Quán tượng trưng cho khả năng nhìn nhận sự việc từ góc độ rộng hơn. Hiểu rõ bản thân và hoàn cảnh là nền tảng để phát triển bền vững.",
+    "tuong_truyen": "Người quân tử thường xuyên tự xem xét mình và quan sát thế giới để tích lũy trí tuệ.",
+    "hao": [
+      "Sơ Lục: quan sát còn hạn chế nên cần học hỏi thêm.",
+      "Lục Nhị: nhìn nhận bằng sự chân thành và khách quan.",
+      "Lục Tam: biết nhìn lại bản thân để điều chỉnh hành vi.",
+      "Lục Tứ: mở rộng góc nhìn giúp hiểu sâu hơn.",
+      "Cửu Ngũ: quan sát thấu đáo tạo nên quyết định sáng suốt.",
+      "Thượng Cửu: trí tuệ đến từ sự chiêm nghiệm lâu dài.",
+      "Ý nghĩa chung: hiểu rõ trước khi hành động sẽ giảm nhiều sai lầm."
+    ]
   },
-  "ghi_chu": "chưa cập nhật",
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
