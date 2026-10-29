@@ -112,3 +112,21 @@ button:hover {
 
   border: 1px solid #ddd;
 }
+#content .card p {
+  margin: 8px 0;
+}
+
+#content .card h3 {
+  margin-top: 18px;
+  margin-bottom: 8px;
+  color: var(--gold);
+}
+
+#content .card ul {
+  margin-top: 8px;
+  padding-left: 24px;
+}
+
+#content .card li {
+  margin-bottom: 4px;
+}
