@@ -1,32 +1,26 @@
 {
   "loai": "que",
-
-  "nguon": "kinh_dich",
-
+  "nguon": "tap-2-thuong-kinh",
   "du_lieu": {
-
     "id": 3,
-
     "ten": "Thủy Lôi Truân",
-
     "han": "屯",
-
-    "tuong": "Khó khăn buổi đầu",
-
-    "tinh_chat": "Khởi đầu",
-
+    "tuong": "Khó khăn lúc khởi đầu",
+    "tinh_chat": "Kiên trì",
     "ngu_hanh": "Thủy - Mộc",
-
-    "quai_tu": "chưa cập nhật",
-
-    "thoan_truyen": "chưa cập nhật",
-
-    "tuong_truyen": "chưa cập nhật",
-
-    "hao": "chưa cập nhật"
+    "quai_tu": "Khởi đầu thường gặp trở ngại. Muốn thành công cần kiên nhẫn, chuẩn bị kỹ lưỡng và tìm được người hỗ trợ phù hợp.",
+    "thoan_truyen": "Quẻ Truân biểu tượng cho giai đoạn hình thành còn nhiều khó khăn. Tuy hoàn cảnh chưa thuận lợi, nhưng đây là thời kỳ cần gieo nền móng cho sự phát triển lâu dài.",
+    "tuong_truyen": "Người quân tử biết tổ chức công việc, quy tụ nhân tâm và từng bước giải quyết khó khăn thay vì nóng vội tìm kết quả ngay.",
+    "hao": [
+      "Sơ Cửu: giai đoạn đầu còn nhiều trở ngại nhưng không nên bỏ cuộc.",
+      "Lục Nhị: cần kiên nhẫn chờ thời cơ thích hợp.",
+      "Lục Tam: hành động đơn độc dễ gặp thất bại.",
+      "Lục Tứ: biết tìm người hỗ trợ sẽ vượt qua khó khăn.",
+      "Cửu Ngũ: giữ vững vị trí trung tâm để ổn định tình hình.",
+      "Thượng Lục: kéo dài khó khăn vì mất phương hướng.",
+      "Ý nghĩa chung: kiên trì và chuẩn bị là chìa khóa vượt qua giai đoạn khởi đầu."
+    ]
   },
-
-  "ghi_chu": "chưa cập nhật",
-
-  "phien_ban": "1.0"
+  "ghi_chu": "Nội dung tóm tắt phục vụ học tập và tra cứu.",
+  "phien_ban": "2.0"
 }
